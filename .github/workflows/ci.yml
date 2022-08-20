@@ -13,8 +13,8 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install pandas
-      - run: python main.py
+      - run: pip3 install -r requirements.txt
+      - run: python3 main.py
       # - run: mkdocs gh-deploy --force
       - name: commit
         env:

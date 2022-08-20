@@ -1,9 +1,7 @@
-from bs4 import BeautifulSoup
-import requests
-import re
-import pandas as pd
-import csv
 import json
+
+import requests
+from bs4 import BeautifulSoup
 
 header = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0',
