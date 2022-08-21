@@ -108,6 +108,24 @@ for idx, item in enumerate(ul_data):
             lc_difficulty = 0
             lc_combo = 0
             lc_charter = 0
+        if not item.find('td', text="AT") is None:
+            at_level = item.find('td', text="AT").find_next("td").string
+            at_difficulty = at_level.find_next("td").string
+            at_combo = at_difficulty.find_next("td").string
+            at_charter = at_combo.find_next("td").string
+            chart["AT"] = {
+                              "level": go(at_level),
+                              "difficulty": go(at_difficulty),
+                              "combo": go(at_combo),
+                              "charter": go(at_charter)
+
+                          },
+        else:
+            at_level = 0
+            at_difficulty = 0
+            at_combo = 0
+            at_charter = 0
+
 
         data_list[go(song) + "_" + go(composer)] = {
                                                        "song": go(song),
