@@ -74,10 +74,14 @@ for idx, item in enumerate(ul_data):
         # print(ez_charter)
 
         def go(st):
-            if st:
-                return str(st).replace('\n', '')
-            else:
-                return "undefind"
+            if st is None:
+                  return ""
+               else:
+
+               if st:
+                  return str(st).replace('\n', '')
+               else:
+                  return "undefind"
 
 
         # print(song)
