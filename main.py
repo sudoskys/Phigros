@@ -77,11 +77,10 @@ for idx, item in enumerate(ul_data):
             if st is None:
                   return ""
                else:
-
-               if st:
-                  return str(st).replace('\n', '')
-               else:
-                  return "undefind"
+                  if st:
+                     return str(st).replace('\n', '')
+                  else:
+                     return "undefind"
 
 
         # print(song)
