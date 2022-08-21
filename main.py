@@ -76,7 +76,7 @@ for idx, item in enumerate(ul_data):
         def go(st):
             if st is None:
                   return ""
-               else:
+            else:
                   if st:
                      return str(st).replace('\n', '')
                   else:
