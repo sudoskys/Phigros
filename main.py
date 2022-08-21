@@ -86,7 +86,7 @@ for idx, item in enumerate(ul_data):
         # print(song)
         # print(bpm)
 
-        data_list[go(song)+"_"+str(idx)] = {
+        data_list[go(song)+"_"+go(composer)] = {
                                   "song": go(song),
                                   "illustration": go(illustration),
                                   "chapter": go(chapter),
