@@ -1101,6 +1101,14 @@
             "bpm":"213",
             "chapter":"Chapter EX-Muse Dash \u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"\u767e\u4e5d\u5341\u516b feat. NerSAN",
+                        "combo":"1444",
+                        "difficulty":"15.9",
+                        "level":"15"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"Barbarianerman",
@@ -2317,6 +2325,14 @@
             "bpm":"180",
             "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"while(TangScend=TangScend);",
+                        "combo":"888",
+                        "difficulty":"16.3",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"while(TangScend<=TangScend);",
@@ -2354,6 +2370,14 @@
             "bpm":"230",
             "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"",
+                        "combo":"1114",
+                        "difficulty":"16.7",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"",
@@ -3451,6 +3475,14 @@
             "bpm":"190",
             "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"",
+                        "combo":"1300",
+                        "difficulty":"16.8",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"",
@@ -3710,6 +3742,14 @@
             "bpm":"200",
             "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
+                        "combo":"1671",
+                        "difficulty":"16.4",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
@@ -3821,6 +3861,14 @@
             "bpm":"180",
             "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "combo":"1700",
+                        "difficulty":"16.4",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"",
@@ -4236,6 +4284,14 @@
             "bpm":"163",
             "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"",
+                        "combo":"1344",
+                        "difficulty":"15.8",
+                        "level":"15"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"M3d1uM",
@@ -4318,6 +4374,14 @@
             "bpm":"177",
             "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"CN_115 as \"prediCameNt\"",
+                        "combo":"1236",
+                        "difficulty":"16.3",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"Arenn Saki as \"mAze\"",
@@ -4519,6 +4583,14 @@
             "bpm":"230",
             "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"Catcats aka. \u7121\u6975 VS H.C.C. fixed by \u91ce\u4ece&\u6668",
+                        "combo":"1325",
+                        "difficulty":"16.1",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"Catcats aka. \u7121\u6975 VS H.C.C. fixed by \u6668",
@@ -4712,6 +4784,14 @@
             "bpm":"128",
             "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"NerSAN & \u767e\u4e5d\u5341\u516b",
+                        "combo":"377",
+                        "difficulty":"13.6",
+                        "level":"13"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"\u963f\u723d fixed by Barbarianerman",
@@ -4971,6 +5051,14 @@
             "bpm":"191~382",
             "chapter":"Chapter EX-WAVEAT \u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"Alloces",
+                        "combo":"1650",
+                        "difficulty":"16.2",
+                        "level":"16"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"Barbarianerman",
