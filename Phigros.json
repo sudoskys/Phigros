@@ -1141,6 +1141,43 @@
             "song":"Cthugha"
         }
     ],
+    "DataErr0r_Cosmograph":[
+        {
+            "bpm":"180",
+            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chart":{
+                "EZ":[
+                    {
+                        "charter":"[!!12:|<|<\u03bf!!]",
+                        "combo":"50",
+                        "difficulty":"6.1",
+                        "level":"6"
+                    }
+                ],
+                "HD":[
+                    {
+                        "charter":"Rikko",
+                        "combo":"400",
+                        "difficulty":"11.6",
+                        "level":"11"
+                    }
+                ],
+                "IN":[
+                    {
+                        "charter":"TangScend -Err0rederci-",
+                        "combo":"613",
+                        "difficulty":"14.6",
+                        "level":"14"
+                    }
+                ]
+            },
+            "composer":"Cosmograph",
+            "illustration":"https://img.moegirl.org.cn/common/thumb/c/c1/DataErr0r_Phigros.png/300px-DataErr0r_Phigros.png",
+            "illustrator":"Photonskyto",
+            "length":"2:04",
+            "song":"DataErr0r"
+        }
+    ],
     "Dead Soul_Sound Souler":[
         {
             "bpm":"132",
@@ -3629,8 +3666,16 @@
     "Shadow_\u59dc\u7c73\u6761&SumaiLight":[
         {
             "bpm":"172",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
             "chart":{
+                "AT":[
+                    {
+                        "charter":"",
+                        "combo":"1089",
+                        "difficulty":"15.9",
+                        "level":"15"
+                    }
+                ],
                 "EZ":[
                     {
                         "charter":"\u6668",
@@ -4861,6 +4906,43 @@
             "song":"energy trixxx"
         }
     ],
+    "inferior_\u59dc\u7c73\u689d":[
+        {
+            "bpm":"200",
+            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
+            "chart":{
+                "EZ":[
+                    {
+                        "charter":"Ner, the inferior",
+                        "combo":"226",
+                        "difficulty":"7.1",
+                        "level":"7"
+                    }
+                ],
+                "HD":[
+                    {
+                        "charter":"Ner, the inferior",
+                        "combo":"489",
+                        "difficulty":"7.9",
+                        "level":"7"
+                    }
+                ],
+                "IN":[
+                    {
+                        "charter":"JKy, the inferior",
+                        "combo":"755",
+                        "difficulty":"14.6",
+                        "level":"14"
+                    }
+                ]
+            },
+            "composer":"\u59dc\u7c73\u689d",
+            "illustration":"https://img.moegirl.org.cn/common/thumb/4/47/Inferior.png/300px-Inferior.png",
+            "illustrator":"\u7fa4\u9752kurara",
+            "length":"2:03",
+            "song":"inferior"
+        }
+    ],
     "life flashes before weeb eyes_BilliumMoto":[
         {
             "bpm":"227",
@@ -5417,6 +5499,43 @@
             "illustrator":"\u55b5n\u8475",
             "length":"1:55",
             "song":"\u5f00\u5fc3\u75c5"
+        }
+    ],
+    "\u5fc3\u4e4b\u6240\u5411_\u59dc\u7c73\u689d":[
+        {
+            "bpm":"180",
+            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
+            "chart":{
+                "EZ":[
+                    {
+                        "charter":"\u6ce2\u4e4b\u6240\u6742",
+                        "combo":"226",
+                        "difficulty":"4.4",
+                        "level":"4"
+                    }
+                ],
+                "HD":[
+                    {
+                        "charter":"\u6ce2\u4e4b\u6240\u6742",
+                        "combo":"422",
+                        "difficulty":"9.7",
+                        "level":"9"
+                    }
+                ],
+                "IN":[
+                    {
+                        "charter":"\u502a\u4e4b\u6240\u723d",
+                        "combo":"713",
+                        "difficulty":"13.6",
+                        "level":"13"
+                    }
+                ]
+            },
+            "composer":"\u59dc\u7c73\u689d",
+            "illustration":"https://img.moegirl.org.cn/common/thumb/8/87/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png/300px-%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png",
+            "illustrator":"\u7b14\u8bb0RE",
+            "length":"2:16",
+            "song":"\u5fc3\u4e4b\u6240\u5411"
         }
     ],
     "\u6708\u4e0b\u7f2d\u4e71_\u6708\u89c1\u9759\u534e vs. LUNARiUM":[
