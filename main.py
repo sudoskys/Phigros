@@ -35,6 +35,7 @@ for idx, item in enumerate(ul_data):
         song = get_stripped_strings(item.th.stripped_strings)
         # print(song)
         illustration = (tds[0].a.img.get('src'))
+        illustration_big = illustration.replace('thumb/','').rsplit('/',1)[0]
         chapter = get_stripped_strings(item.find('td', text="所属章节").find_next("td").stripped_strings)
         bpm = get_stripped_strings(item.find('td', text="BPM").find_next("td").stripped_strings)
         composer = get_stripped_strings(item.find('td', text="曲师").find_next("td").stripped_strings)
@@ -154,6 +155,7 @@ for idx, item in enumerate(ul_data):
         data_list[go(song)] = {
                                                        "song": go(song),
                                                        "illustration": go(illustration),
+                                                       "illustrstion_big": go(illustration_big),
                                                        "chapter": go(chapter),
                                                        "bpm": go(bpm),
                                                        "composer": go(composer),
