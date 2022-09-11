@@ -155,7 +155,7 @@ for idx, item in enumerate(ul_data):
         data_list[go(song)] = {
                                                        "song": go(song),
                                                        "illustration": go(illustration),
-                                                       "illustrstion_big": go(illustration_big),
+                                                       "illustration_big": go(illustration_big),
                                                        "chapter": go(chapter),
                                                        "bpm": go(bpm),
                                                        "composer": go(composer),
