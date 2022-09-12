@@ -126,7 +126,7 @@ for idx, item in enumerate(ul_data):
             at_combo = 0
             at_charter = 0
 
-        print(f"写出了{go(composer)}的作品{go(song)}")
+        print(f"Write out {go(song)} by {go(composer)}")
         data_list[go(song) + "_" + go(composer)] = {
                                                        "song": go(song),
                                                        "illustration": go(illustration),
@@ -140,5 +140,5 @@ for idx, item in enumerate(ul_data):
 data = json.dumps(data_list, sort_keys=True, indent=4, separators=(',', ':'))
 
 with open("Phigros.json", 'w+') as f:  
-    print("写出了数据")
+    print("Done")
     f.write(data)
