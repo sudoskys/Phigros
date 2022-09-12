@@ -126,7 +126,7 @@ for idx, item in enumerate(ul_data):
             at_combo = 0
             at_charter = 0
 
-        print(f"写出了{go(song)}的{go(composer)}条目")
+        print(f"写出了{go(composer)}的作品{go(song)}")
         data_list[go(song) + "_" + go(composer)] = {
                                                        "song": go(song),
                                                        "illustration": go(illustration),
