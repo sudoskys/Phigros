@@ -2882,6 +2882,14 @@
                         "difficulty":"13.7",
                         "level":"13"
                     }
+                ],
+                "Legacy":[
+                    {
+                        "charter":"",
+                        "combo":"917",
+                        "difficulty":"--",
+                        "level":"14"
+                    }
                 ]
             },
             "composer":"Rinth_live",
