@@ -347,7 +347,7 @@
             "chart":{
                 "EZ":[
                     {
-                        "charter":"R.",
+                        "charter":"",
                         "combo":"207",
                         "difficulty":"3.8",
                         "level":"3"
@@ -355,7 +355,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"B.",
+                        "charter":"",
                         "combo":"382",
                         "difficulty":"8.6",
                         "level":"8"
@@ -1238,7 +1238,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\"Demiurge\" ~ Dawn",
+                        "charter":"",
                         "combo":"520",
                         "difficulty":"11.8",
                         "level":"11"
@@ -3419,7 +3419,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6495\u88c2\u8005\u300eAlloces vs Shin\u300f",
+                        "charter":"",
                         "combo":"1186",
                         "difficulty":"15.2",
                         "level":"15"
@@ -4363,7 +4363,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"We are the Miserable",
+                        "charter":"",
                         "combo":"893",
                         "difficulty":"14.6",
                         "level":"14"
@@ -5122,7 +5122,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Jeitie & CorruptedEntity\u300eHollow\u300f",
+                        "charter":"",
                         "combo":"793",
                         "difficulty":"15.5",
                         "level":"15"
