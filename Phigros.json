@@ -249,14 +249,6 @@
                         "difficulty":"13.6",
                         "level":"13"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"",
-                        "combo":"549",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"Neutral Moon",
@@ -516,14 +508,6 @@
                         "difficulty":"14.2",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Uvernight",
-                        "combo":"762",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"Megalo_PaleWhite",
@@ -531,6 +515,43 @@
             "illustrator":"\u7b14\u8bb0RE",
             "length":"1:55",
             "song":"Bonus Time"
+        }
+    ],
+    "Brave Notes_Turquoise(DRIVE.+Nota)":[
+        {
+            "bpm":"192",
+            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chart":{
+                "EZ":[
+                    {
+                        "charter":"Brave Eaimo",
+                        "combo":"299",
+                        "difficulty":"5.6",
+                        "level":"5"
+                    }
+                ],
+                "HD":[
+                    {
+                        "charter":"Brave Eaimo",
+                        "combo":"442",
+                        "difficulty":"11.4",
+                        "level":"11"
+                    }
+                ],
+                "IN":[
+                    {
+                        "charter":"Brave Eaimo",
+                        "combo":"768",
+                        "difficulty":"14.6",
+                        "level":"14"
+                    }
+                ]
+            },
+            "composer":"Turquoise(DRIVE.+Nota)",
+            "illustration":"https://img.moegirl.org.cn/common/thumb/6/6c/Brave_Notes_Phigros.png/300px-Brave_Notes_Phigros.png",
+            "illustrator":"\u6797\u8bed",
+            "length":"01:58",
+            "song":"Brave Notes"
         }
     ],
     "Break Through The Barrier_lixound":[
@@ -560,14 +581,6 @@
                         "combo":"1090",
                         "difficulty":"14.9",
                         "level":"14"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Catcats",
-                        "combo":"1293",
-                        "difficulty":"--",
-                        "level":"15"
                     }
                 ]
             },
@@ -861,7 +874,7 @@
                 "IN":[
                     {
                         "charter":"Gausbon",
-                        "combo":"1156",
+                        "combo":"1148",
                         "difficulty":"15.9",
                         "level":"15"
                     }
@@ -1428,14 +1441,6 @@
                         "difficulty":"14.8",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"746",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"LeaF",
@@ -1508,14 +1513,6 @@
                         "charter":"",
                         "combo":"750",
                         "difficulty":"14.8",
-                        "level":"14"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Ctymax vs \u963f\u723d",
-                        "combo":"615",
-                        "difficulty":"--",
                         "level":"14"
                     }
                 ]
@@ -1665,14 +1662,6 @@
                         "combo":"433",
                         "difficulty":"13.4",
                         "level":"13"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Arenn Saki&Catcats",
-                        "combo":"564",
-                        "difficulty":"--",
-                        "level":"15"
                     }
                 ]
             },
@@ -2303,14 +2292,6 @@
                         "difficulty":"12.6",
                         "level":"12"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"651",
-                        "difficulty":"--",
-                        "level":"12"
-                    }
                 ]
             },
             "composer":"SOTUI",
@@ -2644,14 +2625,6 @@
                         "difficulty":"14.2",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"StupiGGy",
-                        "combo":"883",
-                        "difficulty":"--",
-                        "level":"14"
-                    }
                 ]
             },
             "composer":"Halv",
@@ -2761,14 +2734,6 @@
                         "charter":"\u767e\u4e5d\u5341\u516b",
                         "combo":"689",
                         "difficulty":"14.2",
-                        "level":"14"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"H.C.C",
-                        "combo":"1368",
-                        "difficulty":"--",
                         "level":"14"
                     }
                 ]
@@ -2882,14 +2847,6 @@
                         "difficulty":"13.7",
                         "level":"13"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"",
-                        "combo":"917",
-                        "difficulty":"--",
-                        "level":"14"
-                    }
                 ]
             },
             "composer":"Rinth_live",
@@ -2936,7 +2893,7 @@
             "song":"NO ONE YES MAN"
         }
     ],
-    "NYA!!!_FLuoRiTe/\u59dc\u7c73\u689d":[
+    "NYA!!!(Phigros ver.)_FLuoRiTe/\u59dc\u7c73\u689d":[
         {
             "bpm":"154",
             "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
@@ -2970,7 +2927,7 @@
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/78/Nya_221_Phigros.png/300px-Nya_221_Phigros.png",
             "illustrator":"NEKO&\u6d77\u4ea7",
             "length":"2:36",
-            "song":"NYA!!!"
+            "song":"NYA!!!(Phigros ver.)"
         }
     ],
     "Next Time_SaMZing":[
@@ -3110,14 +3067,6 @@
                         "charter":"",
                         "combo":"1235",
                         "difficulty":"15.8",
-                        "level":"15"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"",
-                        "combo":"1028",
-                        "difficulty":"--",
                         "level":"15"
                     }
                 ]
@@ -3305,14 +3254,6 @@
                         "difficulty":"15.2",
                         "level":"15"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"961",
-                        "difficulty":"--",
-                        "level":"14"
-                    }
                 ]
             },
             "composer":"Normal1zer",
@@ -3422,14 +3363,6 @@
                         "charter":"",
                         "combo":"1186",
                         "difficulty":"15.2",
-                        "level":"15"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u6495\u88c2\u8005\u300e\u7121\u6975\u300f",
-                        "combo":"1093",
-                        "difficulty":"--",
                         "level":"15"
                     }
                 ]
@@ -4241,14 +4174,6 @@
                         "difficulty":"13.4",
                         "level":"13"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u5c0f\u9e4f",
-                        "combo":"909",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"Ctymax feat. NceS",
@@ -4405,14 +4330,6 @@
                         "difficulty":"14.9",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"817",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"BlueWind",
@@ -4493,14 +4410,6 @@
                         "charter":"JKy",
                         "combo":"346",
                         "difficulty":"11.7",
-                        "level":"11"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"296",
-                        "difficulty":"--",
                         "level":"11"
                     }
                 ]
@@ -4614,14 +4523,6 @@
                         "difficulty":"14.1",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Drop Catcats",
-                        "combo":"912",
-                        "difficulty":"--",
-                        "level":"14"
-                    }
                 ]
             },
             "composer":"Asuka",
@@ -4665,14 +4566,6 @@
                         "charter":"\u6668",
                         "combo":"968",
                         "difficulty":"14.4",
-                        "level":"14"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Catcats aka. \u7121\u6975 VS H.C.C.",
-                        "combo":"954",
-                        "difficulty":"--",
                         "level":"14"
                     }
                 ]
@@ -4793,6 +4686,43 @@
             "illustrator":"1B",
             "length":"2:09",
             "song":""
+        }
+    ],
+    "c.s.q.n._Aoi":[
+        {
+            "bpm":"174",
+            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chart":{
+                "EZ":[
+                    {
+                        "charter":"",
+                        "combo":"330",
+                        "difficulty":"5.1",
+                        "level":"5"
+                    }
+                ],
+                "HD":[
+                    {
+                        "charter":"h.o.m.e.e.e.",
+                        "combo":"755",
+                        "difficulty":"12.6",
+                        "level":"12"
+                    }
+                ],
+                "IN":[
+                    {
+                        "charter":"",
+                        "combo":"1066",
+                        "difficulty":"15.7",
+                        "level":"15"
+                    }
+                ]
+            },
+            "composer":"Aoi",
+            "illustration":"https://img.moegirl.org.cn/common/thumb/6/64/Csqn_Phigros.png/300px-Csqn_Phigros.png",
+            "illustrator":"Ctymax vs. TNiK feat. \u51fa\u524d",
+            "length":"2:04",
+            "song":"c.s.q.n."
         }
     ],
     "cryout_Ju_E":[
@@ -5357,14 +5287,6 @@
                         "difficulty":"13.3",
                         "level":"13"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"",
-                        "combo":"857",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"\u95eb\u4e1c\u709c",
@@ -5400,14 +5322,6 @@
                         "charter":"",
                         "combo":"669",
                         "difficulty":"12.6",
-                        "level":"12"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Cloud Catcats",
-                        "combo":"740",
-                        "difficulty":"--",
                         "level":"12"
                     }
                 ]
@@ -5447,14 +5361,6 @@
                         "difficulty":"12.8",
                         "level":"12"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Catcats",
-                        "combo":"532",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"\u59dc\u7c73\u689d",
@@ -5491,14 +5397,6 @@
                         "combo":"840",
                         "difficulty":"14.4",
                         "level":"14"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"815",
-                        "difficulty":"--",
-                        "level":"13"
                     }
                 ]
             },
@@ -5648,14 +5546,6 @@
                         "difficulty":"14.8",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"CN_115",
-                        "combo":"753",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"OnlyMyBlackScore",
@@ -5730,14 +5620,6 @@
                         "difficulty":"14.1",
                         "level":"14"
                     }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"Gausbon",
-                        "combo":"493",
-                        "difficulty":"--",
-                        "level":"13"
-                    }
                 ]
             },
             "composer":"\u95eb\u4e1c\u709c",
@@ -5773,14 +5655,6 @@
                         "charter":"\u963f\u723d & \u767e\u4e5d\u5341\u516b",
                         "combo":"885",
                         "difficulty":"13.1",
-                        "level":"13"
-                    }
-                ],
-                "Legacy":[
-                    {
-                        "charter":"\u963f\u723d",
-                        "combo":"875",
-                        "difficulty":"--",
                         "level":"13"
                     }
                 ]
