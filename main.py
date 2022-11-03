@@ -127,7 +127,7 @@ for idx, item in enumerate(ul_data):
             at_charter = 0
 
         print(f"Write out {go(song)} by {go(composer)}")
-        data_list[go(song) + "_" + go(composer)] = {
+        data_list[go(song) + "@" + go(composer)] = {
                                                        "song": go(song),
                                                        "illustration": go(illustration),
                                                        "chapter": go(chapter),
