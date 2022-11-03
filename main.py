@@ -137,7 +137,7 @@ for idx, item in enumerate(ul_data):
                                                        "illustrator": go(illustrator),
                                                        "chart": chart
                                                    },
-data = json.dumps(data_list, sort_keys=True, indent=4, separators=(',', ':'))
+data = json.dumps(data_list, sort_keys=True, indent=4, separators=(',', ':'),ensure_ascii=False)
 
 with open("Phigros.json", 'w+') as f:  
     print("Done")
