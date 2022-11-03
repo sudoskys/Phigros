@@ -20,7 +20,7 @@ header = {
     'Connection': 'Keep-Alive',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 }
-mew = requests.get('https://mzh.moegirl.org.cn/Phigros/%E8%B0%B1%E9%9D%A2%E4%BF%A1%E6%81%AF', headers=header)
+mew = requests.get('https://zh.moegirl.org.cn/Phigros/%E8%B0%B1%E9%9D%A2%E4%BF%A1%E6%81%AF', headers=header)
 soup = BeautifulSoup(mew.text)
 ul_data = soup.find_all('table', class_='wikitable')
 items = (ul_data[0].find_all("td"))
