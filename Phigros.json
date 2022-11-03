@@ -2,7 +2,7 @@
     "-Arkhei-_Sera Amagi":[
         {
             "bpm":"112",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -31,7 +31,7 @@
             },
             "composer":"Sera Amagi",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/0d/-Arkhei-_jacket.png/300px--Arkhei-_jacket.png",
-            "illustrator":"Hachimitsu\u2606Boy",
+            "illustrator":"Hachimitsu☆Boy",
             "length":"2:37",
             "song":"-Arkhei-"
         }
@@ -39,7 +39,7 @@
     "-SURREALISM-_Itsuki":[
         {
             "bpm":"180",
-            "chapter":"Chapter 4 \u7ba1\u9053\u8ff7\u5bab",
+            "chapter":"Chapter 4 管道迷宫",
             "chart":{
                 "EZ":[
                     {
@@ -59,7 +59,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"-StupiGGy- fixed by \u6668",
+                        "charter":"-StupiGGy- fixed by 晨",
                         "combo":"914",
                         "difficulty":"13.4",
                         "level":"13"
@@ -68,15 +68,15 @@
             },
             "composer":"Itsuki",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/19/SURREALISM_Phigros.png/300px-SURREALISM_Phigros.png",
-            "illustrator":"\u55b5n\u8475",
+            "illustrator":"喵n葵",
             "length":"2:34",
             "song":"-SURREALISM-"
         }
     ],
-    "996_\u674e\u5316\u79b9":[
+    "996_李化禹":[
         {
             "bpm":"140",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -103,9 +103,9 @@
                     }
                 ]
             },
-            "composer":"\u674e\u5316\u79b9",
+            "composer":"李化禹",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e4/996_Phigros.png/300px-996_Phigros.png",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"2:42",
             "song":"996"
         }
@@ -113,7 +113,7 @@
     "After Dawn_S9ryne":[
         {
             "bpm":"110",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "EZ":[
                     {
@@ -142,7 +142,7 @@
             },
             "composer":"S9ryne",
             "illustration":"https://img.moegirl.org.cn/common/thumb/a/a7/After_Dawn_Phigros.png/300px-After_Dawn_Phigros.png",
-            "illustrator":"\u6708\u4eae\u9171",
+            "illustrator":"月亮酱",
             "length":"2:22",
             "song":"After Dawn"
         }
@@ -150,11 +150,11 @@
     "Aleph-0_LeaF":[
         {
             "bpm":"35~400",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d VS Arenn Saki",
+                        "charter":"阿爽 VS Arenn Saki",
                         "combo":"124",
                         "difficulty":"4.5",
                         "level":"4"
@@ -162,7 +162,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d VS Arenn Saki",
+                        "charter":"阿爽 VS Arenn Saki",
                         "combo":"438",
                         "difficulty":"11.6",
                         "level":"11"
@@ -170,7 +170,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d VS Arenn Saki",
+                        "charter":"阿爽 VS Arenn Saki",
                         "combo":"684",
                         "difficulty":"15.6",
                         "level":"15"
@@ -187,7 +187,7 @@
     "Another Me_D_AAN":[
         {
             "bpm":"210",
-            "chapter":"Chapter EX-KALPA \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-KALPA 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -207,7 +207,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"NerSAN vs. Ctymax as \"\u6ce5\u5934\u9c7c\"",
+                        "charter":"NerSAN vs. Ctymax as \"泥头鱼\"",
                         "combo":"1449",
                         "difficulty":"15.5",
                         "level":"15"
@@ -224,7 +224,7 @@
     "Another Me_Neutral Moon":[
         {
             "bpm":"175",
-            "chapter":"Chapter EX-Rising Sun Traxx \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Rising Sun Traxx 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -261,11 +261,11 @@
     "Another Round_Justin Dai":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"136",
                         "difficulty":"3.2",
                         "level":"3"
@@ -281,7 +281,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"TimiTini \u2192\"X\"\u2190 \u963f\u723d",
+                        "charter":"TimiTini →\"X\"← 阿爽",
                         "combo":"505",
                         "difficulty":"13.3",
                         "level":"13"
@@ -290,19 +290,19 @@
             },
             "composer":"Justin Dai",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/74/Another_Round_Phigros.png/300px-Another_Round_Phigros.png",
-            "illustrator":"\u827e\u662fAbby",
+            "illustrator":"艾是Abby",
             "length":"2:32",
             "song":"Another Round"
         }
     ],
-    "Aphasia_\u95eb\u4e1c\u709c":[
+    "Aphasia_闫东炜":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"283",
                         "difficulty":"4.2",
                         "level":"4"
@@ -310,7 +310,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"362",
                         "difficulty":"8.8",
                         "level":"8"
@@ -318,16 +318,16 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"553",
                         "difficulty":"13.1",
                         "level":"13"
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/62/Aphasia_new_jacket.png/300px-Aphasia_new_jacket.png",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"1:56",
             "song":"Aphasia"
         }
@@ -335,7 +335,7 @@
     "Apocalypse_":[
         {
             "bpm":"220",
-            "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Lanota 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -364,7 +364,7 @@
             },
             "composer":"",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/69/Phisong_apocalypse.png/300px-Phisong_apocalypse.png",
-            "illustrator":"Lanota \u00a9 Noxy Games Inc.",
+            "illustrator":"Lanota © Noxy Games Inc.",
             "length":"2:45",
             "song":"Apocalypse"
         }
@@ -372,11 +372,11 @@
     "Apocalyptic_Z ClaxX & SumaiLight":[
         {
             "bpm":"160",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"282",
                         "difficulty":"3.2",
                         "level":"3"
@@ -392,7 +392,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"NerSAN vs. \u963f\u723d",
+                        "charter":"NerSAN vs. 阿爽",
                         "combo":"676",
                         "difficulty":"13.4",
                         "level":"13"
@@ -401,7 +401,7 @@
             },
             "composer":"Z ClaxX & SumaiLight",
             "illustration":"https://img.moegirl.org.cn/common/thumb/f/f7/Apocalyptic_Phigros.png/300px-Apocalyptic_Phigros.png",
-            "illustrator":"\u4f51\u6728\u3044\u305a\u307f& Ctymax",
+            "illustrator":"佑木いずみ& Ctymax",
             "length":"2:09",
             "song":"Apocalyptic"
         }
@@ -409,7 +409,7 @@
     "Ark_kanoryo":[
         {
             "bpm":"180",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "EZ":[
                     {
@@ -429,7 +429,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d eat Ctymax",
+                        "charter":"阿爽 eat Ctymax",
                         "combo":"726",
                         "difficulty":"14.9",
                         "level":"14"
@@ -446,7 +446,7 @@
     "Better Graphic Animation_":[
         {
             "bpm":"180",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -483,7 +483,7 @@
     "Bonus Time_Megalo_PaleWhite":[
         {
             "bpm":"180",
-            "chapter":"Chapter 4 \u7ba1\u9053\u8ff7\u5bab",
+            "chapter":"Chapter 4 管道迷宫",
             "chart":{
                 "EZ":[
                     {
@@ -503,7 +503,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Uvernight fixed by \u767e\u4e5d\u5341\u516b",
+                        "charter":"Uvernight fixed by 百九十八",
                         "combo":"689",
                         "difficulty":"14.2",
                         "level":"14"
@@ -512,7 +512,7 @@
             },
             "composer":"Megalo_PaleWhite",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/13/Bonus_Time_Phigros.png/300px-Bonus_Time_Phigros.png",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"1:55",
             "song":"Bonus Time"
         }
@@ -520,7 +520,7 @@
     "Brave Notes_Turquoise(DRIVE.+Nota)":[
         {
             "bpm":"192",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -549,7 +549,7 @@
             },
             "composer":"Turquoise(DRIVE.+Nota)",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/6c/Brave_Notes_Phigros.png/300px-Brave_Notes_Phigros.png",
-            "illustrator":"\u6797\u8bed",
+            "illustrator":"林语",
             "length":"01:58",
             "song":"Brave Notes"
         }
@@ -557,7 +557,7 @@
     "Break Through The Barrier_lixound":[
         {
             "bpm":"176",
-            "chapter":"Chapter EX-Rising Sun Traxx \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Rising Sun Traxx 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -577,7 +577,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"1090",
                         "difficulty":"14.9",
                         "level":"14"
@@ -594,7 +594,7 @@
     "Burn_NceS":[
         {
             "bpm":"148",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -623,19 +623,19 @@
             },
             "composer":"NceS",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/c2/Burn_Phigros.png/300px-Burn_Phigros.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"2:18",
             "song":"Burn"
         }
     ],
-    "CROSS\u2020SOUL_HyuN feat. Syepias":[
+    "CROSS†SOUL_HyuN feat. Syepias":[
         {
             "bpm":"200",
-            "chapter":"Chapter EX-HyuN \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-HyuN 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u7121\u2020\u6975",
+                        "charter":"無†極",
                         "combo":"517",
                         "difficulty":"7.7",
                         "level":"7"
@@ -643,7 +643,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u7121\u2020\u6975 fixed by Rikko",
+                        "charter":"無†極 fixed by Rikko",
                         "combo":"892",
                         "difficulty":"12.8",
                         "level":"12"
@@ -651,7 +651,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u7121\u2020\u6975",
+                        "charter":"無†極",
                         "combo":"1305",
                         "difficulty":"15.9",
                         "level":"15"
@@ -660,15 +660,15 @@
             },
             "composer":"HyuN feat. Syepias",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/ee/PhigrosCROSS%E2%80%A0SOUL.png/300px-PhigrosCROSS%E2%80%A0SOUL.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"2:19",
-            "song":"CROSS\u2020SOUL"
+            "song":"CROSS†SOUL"
         }
     ],
     "Cereris_SunsetRay/NceS":[
         {
             "bpm":"175",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -705,7 +705,7 @@
     "Cervelle Connexion_SCTL":[
         {
             "bpm":"142",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -742,7 +742,7 @@
     "Chronologika_Hundotte":[
         {
             "bpm":"180",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "EZ":[
                     {
@@ -754,7 +754,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"456",
                         "difficulty":"9.8",
                         "level":"9"
@@ -771,7 +771,7 @@
             },
             "composer":"Hundotte",
             "illustration":"https://img.moegirl.org.cn/common/thumb/a/ab/Chronologika_jacket.png/300px-Chronologika_jacket.png",
-            "illustrator":"\u5e7d\u7075\u661f",
+            "illustrator":"幽灵星",
             "length":"2:14",
             "song":"Chronologika"
         }
@@ -779,7 +779,7 @@
     "Chronomia_Lime":[
         {
             "bpm":"227",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "EZ":[
                     {
@@ -799,7 +799,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u65f6\u306e\u5e0c & \u767e\u4e5d\u5341\u516b",
+                        "charter":"时の希 & 百九十八",
                         "combo":"992",
                         "difficulty":"15.3",
                         "level":"15"
@@ -816,11 +816,11 @@
     "Chronos Collapse - La Campanella_SunsetRay":[
         {
             "bpm":"180",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Pcat\u300eScatter\u300f",
+                        "charter":"Pcat『Scatter』",
                         "combo":"350",
                         "difficulty":"2.8",
                         "level":"2"
@@ -828,7 +828,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d\u300eDestroy\u300f",
+                        "charter":"阿爽『Destroy』",
                         "combo":"773",
                         "difficulty":"10.6",
                         "level":"10"
@@ -836,7 +836,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"NerSAN vs. \u963f\u723d\u300eCollapse\u300f",
+                        "charter":"NerSAN vs. 阿爽『Collapse』",
                         "combo":"1500",
                         "difficulty":"15.9",
                         "level":"15"
@@ -845,7 +845,7 @@
             },
             "composer":"SunsetRay",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/2b/Chronos_Collapse_-_La_Campanella_jacket.png/300px-Chronos_Collapse_-_La_Campanella_jacket.png",
-            "illustrator":"\u8001\u5f20",
+            "illustrator":"老张",
             "length":"2:33",
             "song":"Chronos Collapse - La Campanella"
         }
@@ -853,7 +853,7 @@
     "Chronostasis_":[
         {
             "bpm":"196",
-            "chapter":"Chapter EX-Rising Sun Traxx \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Rising Sun Traxx 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -887,10 +887,10 @@
             "song":"Chronostasis"
         }
     ],
-    "Cipher\u00a0: /2&//<|0_Tetrajectory feat. Ctymax":[
+    "Cipher : /2&//<|0_Tetrajectory feat. Ctymax":[
         {
             "bpm":"179",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -921,13 +921,13 @@
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/ec/Cipher_new_jacket.png/300px-Cipher_new_jacket.png",
             "illustrator":"IvyTowers",
             "length":"2:34",
-            "song":"Cipher\u00a0: /2&//<|0"
+            "song":"Cipher : /2&//<|0"
         }
     ],
     "Class Memories_Antistar feat. Ctymax":[
         {
             "bpm":"145",
-            "chapter":"Chapter 4 \u7ba1\u9053\u8ff7\u5bab",
+            "chapter":"Chapter 4 管道迷宫",
             "chart":{
                 "EZ":[
                     {
@@ -964,7 +964,7 @@
     "Clock Paradox_WyvernP":[
         {
             "bpm":"140",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "EZ":[
                     {
@@ -993,7 +993,7 @@
             },
             "composer":"WyvernP",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/71/Clock_Paradox.jpeg/300px-Clock_Paradox.jpeg",
-            "illustrator":"\u6c49\u5821",
+            "illustrator":"汉堡",
             "length":"2:30",
             "song":"Clock Paradox"
         }
@@ -1001,11 +1001,11 @@
     "Colorful Days_":[
         {
             "bpm":"136",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u266a\u723d",
+                        "charter":"阿♪爽",
                         "combo":"156",
                         "difficulty":"4.6",
                         "level":"4"
@@ -1013,7 +1013,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u266a\u723d",
+                        "charter":"阿♪爽",
                         "combo":"186",
                         "difficulty":"7.1",
                         "level":"7"
@@ -1021,7 +1021,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u266a\u723d",
+                        "charter":"阿♪爽",
                         "combo":"407",
                         "difficulty":"12.7",
                         "level":"12"
@@ -1038,7 +1038,7 @@
     "Concvssion_Halv":[
         {
             "bpm":"190",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1050,7 +1050,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"700",
                         "difficulty":"10.2",
                         "level":"10"
@@ -1067,7 +1067,7 @@
             },
             "composer":"Halv",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/22/Concvssion%28Phigros%29.png/300px-Concvssion%28Phigros%29.png",
-            "illustrator":"\u6c49\u5821",
+            "illustrator":"汉堡",
             "length":"2:32",
             "song":"Concvssion"
         }
@@ -1075,7 +1075,7 @@
     "Credits_Frums":[
         {
             "bpm":"179",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -1112,11 +1112,11 @@
     "Cthugha_USAO":[
         {
             "bpm":"213",
-            "chapter":"Chapter EX-Muse Dash \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Muse Dash 精选集",
             "chart":{
                 "AT":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b feat. NerSAN",
+                        "charter":"百九十八 feat. NerSAN",
                         "combo":"1444",
                         "difficulty":"15.9",
                         "level":"15"
@@ -1149,7 +1149,7 @@
             },
             "composer":"USAO",
             "illustration":"https://img.moegirl.org.cn/common/thumb/d/d1/Cthugha_Phigros.png/300px-Cthugha_Phigros.png",
-            "illustrator":"\u8c37\u5730\uff08\u9752\u9e1fmodified\uff09",
+            "illustrator":"谷地（青鸟modified）",
             "length":"2:34",
             "song":"Cthugha"
         }
@@ -1157,7 +1157,7 @@
     "DataErr0r_Cosmograph":[
         {
             "bpm":"180",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1194,7 +1194,7 @@
     "Dead Soul_Sound Souler":[
         {
             "bpm":"132",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1231,7 +1231,7 @@
     "Demiurge_Rabpit":[
         {
             "bpm":"111",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "EZ":[
                     {
@@ -1260,7 +1260,7 @@
             },
             "composer":"Rabpit",
             "illustration":"https://img.moegirl.org.cn/common/thumb/9/96/Demiurge_Phigros.png/300px-Demiurge_Phigros.png",
-            "illustrator":"\u9752\u9e1f",
+            "illustrator":"青鸟",
             "length":"2:49",
             "song":"Demiurge"
         }
@@ -1268,7 +1268,7 @@
     "Demonkin_Forged Reigns":[
         {
             "bpm":"192",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "EZ":[
                     {
@@ -1305,7 +1305,7 @@
     "Disorder_HyuN feat. YURI":[
         {
             "bpm":"193",
-            "chapter":"Chapter EX-HyuN \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-HyuN 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1342,11 +1342,11 @@
     "Dlyrotz_Likey":[
         {
             "bpm":"175",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"279",
                         "difficulty":"6.5",
                         "level":"6"
@@ -1354,7 +1354,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"382",
                         "difficulty":"11.7",
                         "level":"11"
@@ -1362,7 +1362,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668 vs Barbarianerman",
+                        "charter":"晨 vs Barbarianerman",
                         "combo":"764",
                         "difficulty":"14.6",
                         "level":"14"
@@ -1379,11 +1379,11 @@
     "Don't Never Around_HAMA":[
         {
             "bpm":"175",
-            "chapter":"Chapter EX-KALPA \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-KALPA 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"308",
                         "difficulty":"4.4",
                         "level":"4"
@@ -1391,7 +1391,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"639",
                         "difficulty":"11.7",
                         "level":"11"
@@ -1399,7 +1399,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"1028",
                         "difficulty":"15.6",
                         "level":"15"
@@ -1416,11 +1416,11 @@
     "Doppelganger_LeaF":[
         {
             "bpm":"280",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"257",
                         "difficulty":"4.8",
                         "level":"4"
@@ -1428,7 +1428,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"437",
                         "difficulty":"9.4",
                         "level":"9"
@@ -1445,7 +1445,7 @@
             },
             "composer":"LeaF",
             "illustration":"https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",
-            "illustrator":"\u6d77\u4ea7",
+            "illustrator":"海产",
             "length":"2:26",
             "song":"Doppelganger"
         }
@@ -1453,7 +1453,7 @@
     "Dreamland_z1on & kyrrin":[
         {
             "bpm":"120",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1482,7 +1482,7 @@
             },
             "composer":"z1on & kyrrin",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/10/Dreamland_Phigros.png/300px-Dreamland_Phigros.png",
-            "illustrator":"\u6d77\u4ea7",
+            "illustrator":"海产",
             "length":"2:39",
             "song":"Dreamland"
         }
@@ -1490,11 +1490,11 @@
     "ENERGY SYNERGY MATRIX_Tanchiky":[
         {
             "bpm":"160",
-            "chapter":"Chapter 4 \u7ba1\u9053\u8ff7\u5bab",
+            "chapter":"Chapter 4 管道迷宫",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Ctymax vs \u963f\u723d",
+                        "charter":"Ctymax vs 阿爽",
                         "combo":"190",
                         "difficulty":"5.9",
                         "level":"5"
@@ -1502,7 +1502,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Ctymax vs \u963f\u723d",
+                        "charter":"Ctymax vs 阿爽",
                         "combo":"468",
                         "difficulty":"10.7",
                         "level":"10"
@@ -1524,14 +1524,14 @@
             "song":"ENERGY SYNERGY MATRIX"
         }
     ],
-    "Electron_Elous\u039b.-FZ":[
+    "Electron_ElousΛ.-FZ":[
         {
             "bpm":"134",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"219",
                         "difficulty":"3.7",
                         "level":"3"
@@ -1539,7 +1539,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"423",
                         "difficulty":"10.4",
                         "level":"10"
@@ -1547,14 +1547,14 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"576",
                         "difficulty":"13.2",
                         "level":"13"
                     }
                 ]
             },
-            "composer":"Elous\u039b.-FZ",
+            "composer":"ElousΛ.-FZ",
             "illustration":"https://img.moegirl.org.cn/common/thumb/5/5d/Electron_Phigros.png/300px-Electron_Phigros.png",
             "illustrator":"DoublePian",
             "length":"2:09",
@@ -1564,7 +1564,7 @@
     "Eltaw_Fl00t":[
         {
             "bpm":"193",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1601,11 +1601,11 @@
     "End Me_ZxNX as Delaina":[
         {
             "bpm":"100~120",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u9cb2",
+                        "charter":"鲲",
                         "combo":"217",
                         "difficulty":"5.8",
                         "level":"5"
@@ -1613,7 +1613,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u9cb2",
+                        "charter":"鲲",
                         "combo":"320",
                         "difficulty":"7.5",
                         "level":"7"
@@ -1621,7 +1621,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u9cb2 fixed by \u767e\u4e5d\u5341\u516b",
+                        "charter":"鲲 fixed by 百九十八",
                         "combo":"724",
                         "difficulty":"14.3",
                         "level":"14"
@@ -1630,7 +1630,7 @@
             },
             "composer":"ZxNX as Delaina",
             "illustration":"https://img.moegirl.org.cn/common/thumb/3/3d/End_Me_Phigros.png/300px-End_Me_Phigros.png",
-            "illustrator":"\u4f55\u5475",
+            "illustrator":"何呵",
             "length":"2:10",
             "song":"End Me"
         }
@@ -1638,7 +1638,7 @@
     "Engine x Start!! (melody mix)_CrossingSound":[
         {
             "bpm":"186",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -1667,7 +1667,7 @@
             },
             "composer":"CrossingSound",
             "illustration":"https://img.moegirl.org.cn/common/thumb/9/9e/Engine_x_Start_Phigros.png/300px-Engine_x_Start_Phigros.png",
-            "illustrator":"\u8d64\u82bd",
+            "illustrator":"赤芽",
             "length":"1:32",
             "song":"Engine x Start!! (melody mix)"
         }
@@ -1675,11 +1675,11 @@
     "Eradication Catastrophe_NceS":[
         {
             "bpm":"120",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"111",
                         "difficulty":"3.5",
                         "level":"3"
@@ -1687,7 +1687,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"319",
                         "difficulty":"7.5",
                         "level":"7"
@@ -1695,7 +1695,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d & Ctymax",
+                        "charter":"阿爽 & Ctymax",
                         "combo":"463",
                         "difficulty":"11.6",
                         "level":"11"
@@ -1704,7 +1704,7 @@
             },
             "composer":"NceS",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/60/Eradication_Catastrophe_Phigros.png/300px-Eradication_Catastrophe_Phigros.png",
-            "illustrator":"\u6d77\u4ea7",
+            "illustrator":"海产",
             "length":"2:07",
             "song":"Eradication Catastrophe"
         }
@@ -1712,11 +1712,11 @@
     "FULi AUTO BUSTER_MYUKKE.":[
         {
             "bpm":"145",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"M3d1uM & \u767e\u4e5d\u5341\u516b",
+                        "charter":"M3d1uM & 百九十八",
                         "combo":"285",
                         "difficulty":"4.8",
                         "level":"4"
@@ -1724,7 +1724,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"M3d1uM & \u767e\u4e5d\u5341\u516b",
+                        "charter":"M3d1uM & 百九十八",
                         "combo":"596",
                         "difficulty":"8.6",
                         "level":"8"
@@ -1732,7 +1732,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b busting \u963f\u723d",
+                        "charter":"百九十八 busting 阿爽",
                         "combo":"755",
                         "difficulty":"14.7",
                         "level":"14"
@@ -1749,7 +1749,7 @@
     "FULi AUTO SHOOTER_MYUKKE.":[
         {
             "bpm":"145",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -1786,7 +1786,7 @@
     "Final Step!_Lime":[
         {
             "bpm":"180",
-            "chapter":"Chapter EX-Muse Dash \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Muse Dash 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1815,7 +1815,7 @@
             },
             "composer":"Lime",
             "illustration":"https://img.moegirl.org.cn/common/thumb/8/84/Final_Step%21_Phigros.png/300px-Final_Step%21_Phigros.png",
-            "illustrator":"\u8c37\u5730\uff08\u9752\u9e1fmodified\uff09",
+            "illustrator":"谷地（青鸟modified）",
             "length":"2:17",
             "song":"Final Step!"
         }
@@ -1823,7 +1823,7 @@
     "Find_Me_K-forest":[
         {
             "bpm":"191",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1843,7 +1843,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Find_Ctymax fixed by \u767e\u4e5d\u5341\u516b",
+                        "charter":"Find_Ctymax fixed by 百九十八",
                         "combo":"836",
                         "difficulty":"14.4",
                         "level":"14"
@@ -1860,7 +1860,7 @@
     "Future Mind_Ray Nautica & Reku Mochizuki":[
         {
             "bpm":"180",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -1872,7 +1872,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"570",
                         "difficulty":"11.7",
                         "level":"11"
@@ -1897,11 +1897,11 @@
     "GOODBOUNCE_EBIMAYO":[
         {
             "bpm":"180",
-            "chapter":"Chapter EX-GOOD\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-GOOD精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Gausbounce & \u6668",
+                        "charter":"Gausbounce & 晨",
                         "combo":"588",
                         "difficulty":"5.7",
                         "level":"5"
@@ -1934,11 +1934,11 @@
     "GOODFORTUNE_EBIMAYO":[
         {
             "bpm":"170",
-            "chapter":"Chapter EX-GOOD\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-GOOD精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"455",
                         "difficulty":"7.3",
                         "level":"7"
@@ -1946,7 +1946,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"733",
                         "difficulty":"8.7",
                         "level":"8"
@@ -1954,7 +1954,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"1011",
                         "difficulty":"15.4",
                         "level":"15"
@@ -1971,11 +1971,11 @@
     "GOODRAGE_EBIMAYO":[
         {
             "bpm":"222",
-            "chapter":"Chapter EX-GOOD\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-GOOD精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"308",
                         "difficulty":"4.6",
                         "level":"4"
@@ -1983,7 +1983,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"628",
                         "difficulty":"7.8",
                         "level":"7"
@@ -1991,7 +1991,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Ctymax vs. \u963f\u723d",
+                        "charter":"Ctymax vs. 阿爽",
                         "combo":"1034",
                         "difficulty":"15.8",
                         "level":"15"
@@ -2008,11 +2008,11 @@
     "GOODTEK_EBIMAYO":[
         {
             "bpm":"190",
-            "chapter":"Chapter EX-GOOD\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-GOOD精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"295",
                         "difficulty":"5.4",
                         "level":"5"
@@ -2020,7 +2020,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"609",
                         "difficulty":"10.8",
                         "level":"10"
@@ -2028,7 +2028,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"873",
                         "difficulty":"14.2",
                         "level":"14"
@@ -2045,11 +2045,11 @@
     "GOODWORLD_EBIMAYO":[
         {
             "bpm":"165",
-            "chapter":"Chapter EX-GOOD\u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-GOOD精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"215",
                         "difficulty":"3.2",
                         "level":"3"
@@ -2065,7 +2065,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"StupiGGy vs. \u963f\u723d",
+                        "charter":"StupiGGy vs. 阿爽",
                         "combo":"960",
                         "difficulty":"14.5",
                         "level":"14"
@@ -2082,7 +2082,7 @@
     "Get Back_CAP3":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2119,7 +2119,7 @@
     "Get Ready!!_iF":[
         {
             "bpm":"142",
-            "chapter":"Chapter EX-WAVEAT \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-WAVEAT 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2156,7 +2156,7 @@
     "HAZARD_Limpid":[
         {
             "bpm":"128",
-            "chapter":"Chapter EX-KALPA \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-KALPA 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2176,7 +2176,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"588",
                         "difficulty":"14.7",
                         "level":"14"
@@ -2193,7 +2193,7 @@
     "Hardcore Kwaya_EnFr":[
         {
             "bpm":"200",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2230,7 +2230,7 @@
     "Horizon Blue_Nothing But Requiem feat. Aikapin & Chiyoko":[
         {
             "bpm":"200",
-            "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Lanota 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2259,7 +2259,7 @@
             },
             "composer":"Nothing But Requiem feat. Aikapin & Chiyoko",
             "illustration":"https://img.moegirl.org.cn/common/thumb/3/36/Phisong_horizon_blue.png/300px-Phisong_horizon_blue.png",
-            "illustrator":"Lanota \u00a9 Noxy Games Inc.",
+            "illustrator":"Lanota © Noxy Games Inc.",
             "length":"2:46",
             "song":"Horizon Blue"
         }
@@ -2267,11 +2267,11 @@
     "HumaN_SOTUI":[
         {
             "bpm":"180",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"182",
                         "difficulty":"5.6",
                         "level":"5"
@@ -2279,7 +2279,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"382",
                         "difficulty":"8.8",
                         "level":"8"
@@ -2304,7 +2304,7 @@
     "I Must Say No_TangJuan":[
         {
             "bpm":"175",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2324,7 +2324,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Likey & \u767e\u4e5d\u5341\u516b",
+                        "charter":"Likey & 百九十八",
                         "combo":"470",
                         "difficulty":"13.5",
                         "level":"13"
@@ -2341,7 +2341,7 @@
     "INFiNiTE ENERZY -Overdoze-_Reku Mochizuki":[
         {
             "bpm":"180",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "AT":[
                     {
@@ -2378,7 +2378,7 @@
             },
             "composer":"Reku Mochizuki",
             "illustration":"https://img.moegirl.org.cn/common/thumb/9/95/INFiNiTE_ENERZY_-Overdoze-_Phigros.png/300px-INFiNiTE_ENERZY_-Overdoze-_Phigros.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"1:57",
             "song":"INFiNiTE ENERZY -Overdoze-"
         }
@@ -2386,7 +2386,7 @@
     "Igallta_Se-U-Ra":[
         {
             "bpm":"230",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "AT":[
                     {
@@ -2431,11 +2431,11 @@
     "Infinity Heaven_HyuN":[
         {
             "bpm":"160",
-            "chapter":"Chapter EX-HyuN \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-HyuN 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6668 vs \u963f\u723d",
+                        "charter":"晨 vs 阿爽",
                         "combo":"164",
                         "difficulty":"3.3",
                         "level":"3"
@@ -2443,7 +2443,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668 vs \u963f\u723d",
+                        "charter":"晨 vs 阿爽",
                         "combo":"422",
                         "difficulty":"8.4",
                         "level":"8"
@@ -2451,7 +2451,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668 vs \u963f\u723d",
+                        "charter":"晨 vs 阿爽",
                         "combo":"1029",
                         "difficulty":"13.6",
                         "level":"13"
@@ -2468,11 +2468,11 @@
     "Initialize_iF":[
         {
             "bpm":"128",
-            "chapter":"Chapter EX-WAVEAT \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-WAVEAT 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"117",
                         "difficulty":"2.5",
                         "level":"2"
@@ -2502,9 +2502,9 @@
             "song":"Initialize"
         }
     ],
-    "Introduction_\u59dc\u7c73\u689d&Elous\u039b.-FZ":[
+    "Introduction_姜米條&ElousΛ.-FZ":[
         {
-            "bpm":"180",
+            "bpm":"138.1",
             "chapter":"--",
             "chart":{
                 "EZ":[
@@ -2516,7 +2516,7 @@
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d&Elous\u039b.-FZ",
+            "composer":"姜米條&ElousΛ.-FZ",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",
             "illustrator":"L-sp4",
             "length":"2:29",
@@ -2526,11 +2526,11 @@
     "JunXion Between Life And Death(VIP Mix)_1N6Fs":[
         {
             "bpm":"164",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u9cb2&\u767e\u4e5d\u5341\u516b",
+                        "charter":"鲲&百九十八",
                         "combo":"262",
                         "difficulty":"3.2",
                         "level":"3"
@@ -2538,7 +2538,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u9cb2&\u767e\u4e5d\u5341\u516b",
+                        "charter":"鲲&百九十八",
                         "combo":"593",
                         "difficulty":"8.7",
                         "level":"8"
@@ -2546,7 +2546,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u9cb2&\u767e\u4e5d\u5341\u516b",
+                        "charter":"鲲&百九十八",
                         "combo":"722",
                         "difficulty":"13.3",
                         "level":"13"
@@ -2563,7 +2563,7 @@
     "Kerberos_Zris":[
         {
             "bpm":"197",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2600,7 +2600,7 @@
     "Khronostasis Katharsis_Halv":[
         {
             "bpm":"188",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2620,7 +2620,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"StupiGGy fixed by \u767e\u4e5d\u5341\u516b",
+                        "charter":"StupiGGy fixed by 百九十八",
                         "combo":"861",
                         "difficulty":"14.2",
                         "level":"14"
@@ -2637,11 +2637,11 @@
     "Leave All Behind_rider":[
         {
             "bpm":"150",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u4e9a\u6811\u89c1\u5e0c\u5b50 & \u767e\u4e5d\u5341\u516b",
+                        "charter":"亚树见希子 & 百九十八",
                         "combo":"210",
                         "difficulty":"2.5",
                         "level":"2"
@@ -2649,7 +2649,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u4e9a\u6811\u89c1\u5e0c\u5b50 & \u767e\u4e5d\u5341\u516b",
+                        "charter":"亚树见希子 & 百九十八",
                         "combo":"394",
                         "difficulty":"6.4",
                         "level":"6"
@@ -2657,7 +2657,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u4e9a\u6811\u89c1\u5e0c\u5b50 & \u767e\u4e5d\u5341\u516b",
+                        "charter":"亚树见希子 & 百九十八",
                         "combo":"528",
                         "difficulty":"12.7",
                         "level":"12"
@@ -2666,7 +2666,7 @@
             },
             "composer":"rider",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/02/LeaveAllBehind_Phigros.jpg/300px-LeaveAllBehind_Phigros.jpg",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"2:07",
             "song":"Leave All Behind"
         }
@@ -2674,7 +2674,7 @@
     "Luminescent_Daison":[
         {
             "bpm":"141",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2694,7 +2694,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"650",
                         "difficulty":"14.4",
                         "level":"14"
@@ -2703,7 +2703,7 @@
             },
             "composer":"Daison",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/ce/Luminescent_Phigros.png/300px-Luminescent_Phigros.png",
-            "illustrator":"\u9cb8\u5f11",
+            "illustrator":"鲸弑",
             "length":"2:37",
             "song":"Luminescent"
         }
@@ -2711,7 +2711,7 @@
     "MARENOL_LeaF":[
         {
             "bpm":"140",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2731,7 +2731,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"689",
                         "difficulty":"14.2",
                         "level":"14"
@@ -2740,7 +2740,7 @@
             },
             "composer":"LeaF",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/0f/MARENOL_Phigros.png/300px-MARENOL_Phigros.png",
-            "illustrator":"\u55b5n\u8475",
+            "illustrator":"喵n葵",
             "length":"2:29",
             "song":"MARENOL"
         }
@@ -2748,11 +2748,11 @@
     "MOBILYS_Dachs":[
         {
             "bpm":"144",
-            "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
+            "chapter":"Side Story 1 忘忧宫",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"311",
                         "difficulty":"4.8",
                         "level":"4"
@@ -2760,7 +2760,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"530",
                         "difficulty":"9.7",
                         "level":"9"
@@ -2768,7 +2768,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"StupiGGy vs. \u767e\u4e5d\u5341\u516b ft. \u91ce\u4ece",
+                        "charter":"StupiGGy vs. 百九十八 ft. 野从",
                         "combo":"938",
                         "difficulty":"14.4",
                         "level":"14"
@@ -2785,11 +2785,11 @@
     "Magenta Potion_EmoCo.":[
         {
             "bpm":"150",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Ctymax VS \u6668",
+                        "charter":"Ctymax VS 晨",
                         "combo":"334",
                         "difficulty":"6.3",
                         "level":"6"
@@ -2797,7 +2797,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Ctymax VS \u6668",
+                        "charter":"Ctymax VS 晨",
                         "combo":"631",
                         "difficulty":"11.3",
                         "level":"11"
@@ -2805,7 +2805,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Ctymax VS \u6668",
+                        "charter":"Ctymax VS 晨",
                         "combo":"791",
                         "difficulty":"14.5",
                         "level":"14"
@@ -2822,7 +2822,7 @@
     "Miracle Forest (VIP Mix)_Rinth_live":[
         {
             "bpm":"192",
-            "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
+            "chapter":"Side Story 1 忘忧宫",
             "chart":{
                 "EZ":[
                     {
@@ -2859,7 +2859,7 @@
     "NO ONE YES MAN_MYUKKE.":[
         {
             "bpm":"170",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "EZ":[
                     {
@@ -2871,7 +2871,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"612",
                         "difficulty":"11.8",
                         "level":"11"
@@ -2879,7 +2879,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668 vs. Ctymax",
+                        "charter":"晨 vs. Ctymax",
                         "combo":"844",
                         "difficulty":"15.4",
                         "level":"15"
@@ -2888,15 +2888,15 @@
             },
             "composer":"MYUKKE.",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/25/NO_ONE_YES_MAN_Phigros.png/300px-NO_ONE_YES_MAN_Phigros.png",
-            "illustrator":"\u9752\u9e1f",
+            "illustrator":"青鸟",
             "length":"2:41",
             "song":"NO ONE YES MAN"
         }
     ],
-    "NYA!!!(Phigros ver.)_FLuoRiTe/\u59dc\u7c73\u689d":[
+    "NYA!!!(Phigros ver.)_FLuoRiTe/姜米條":[
         {
             "bpm":"154",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
@@ -2923,9 +2923,9 @@
                     }
                 ]
             },
-            "composer":"FLuoRiTe/\u59dc\u7c73\u689d",
+            "composer":"FLuoRiTe/姜米條",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/78/Nya_221_Phigros.png/300px-Nya_221_Phigros.png",
-            "illustrator":"NEKO&\u6d77\u4ea7",
+            "illustrator":"NEKO&海产",
             "length":"2:36",
             "song":"NYA!!!(Phigros ver.)"
         }
@@ -2933,7 +2933,7 @@
     "Next Time_SaMZing":[
         {
             "bpm":"175",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -2962,7 +2962,7 @@
             },
             "composer":"SaMZing",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/04/Next_Time_Phigros.png/300px-Next_Time_Phigros.png",
-            "illustrator":"\u53f6\u85e4",
+            "illustrator":"叶藤",
             "length":"1:51",
             "song":"Next Time"
         }
@@ -2970,11 +2970,11 @@
     "Nhelv_Silentroom":[
         {
             "bpm":"174.59",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u91ce\u4ece",
+                        "charter":"野从",
                         "combo":"196",
                         "difficulty":"1.7",
                         "level":"1"
@@ -3007,11 +3007,11 @@
     "Nick of Time_P4koo":[
         {
             "bpm":"175",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6668 vs. XMT\u5c0f\u54a9\u5154",
+                        "charter":"晨 vs. XMT小咩兔",
                         "combo":"328",
                         "difficulty":"4.4",
                         "level":"4"
@@ -3019,7 +3019,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668 vs. XMT\u5c0f\u54a9\u5154",
+                        "charter":"晨 vs. XMT小咩兔",
                         "combo":"429",
                         "difficulty":"8.1",
                         "level":"8"
@@ -3036,7 +3036,7 @@
             },
             "composer":"P4koo",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/7c/Nick_of_Time_jacket.png/300px-Nick_of_Time_jacket.png",
-            "illustrator":"\u9752\u9e1f",
+            "illustrator":"青鸟",
             "length":"2:22",
             "song":"Nick of Time"
         }
@@ -3044,7 +3044,7 @@
     "Non-Melodic Ragez(MUG Edit)_Normal1zer":[
         {
             "bpm":"205",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
@@ -3081,7 +3081,7 @@
     "On And On!!_ETIA. feat. Jenga":[
         {
             "bpm":"170",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3118,7 +3118,7 @@
     "Orthodox_tokiwa":[
         {
             "bpm":"170",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3155,7 +3155,7 @@
     "Palescreen_WyvernP feat. Madol":[
         {
             "bpm":"173",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3192,7 +3192,7 @@
     "Parallel Retrogression(Game Ver.)_Tetrajectory":[
         {
             "bpm":"175",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3221,7 +3221,7 @@
             },
             "composer":"Tetrajectory",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/27/Parallel_Retrogression_Phigros.png/300px-Parallel_Retrogression_Phigros.png",
-            "illustrator":"\u9752\u9e1f",
+            "illustrator":"青鸟",
             "length":"2:23",
             "song":"Parallel Retrogression(Game Ver.)"
         }
@@ -3229,11 +3229,11 @@
     "Pixel Rebelz_Normal1zer":[
         {
             "bpm":"150",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"250",
                         "difficulty":"4.5",
                         "level":"4"
@@ -3241,7 +3241,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"698",
                         "difficulty":"11.9",
                         "level":"11"
@@ -3258,7 +3258,7 @@
             },
             "composer":"Normal1zer",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/c4/Pixel_Rebelz_Phigros_Old.png/300px-Pixel_Rebelz_Phigros_Old.png",
-            "illustrator":"\u827e\u662fAbby",
+            "illustrator":"艾是Abby",
             "length":"2:23",
             "song":"Pixel Rebelz"
         }
@@ -3266,7 +3266,7 @@
     "Protoflicker_Silentroom":[
         {
             "bpm":"140",
-            "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Lanota 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3295,15 +3295,15 @@
             },
             "composer":"Silentroom",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/c0/Phisong_protoflicker.png/300px-Phisong_protoflicker.png",
-            "illustrator":"Lanota \u00a9 Noxy Games Inc.",
+            "illustrator":"Lanota © Noxy Games Inc.",
             "length":"2:46",
             "song":"Protoflicker"
         }
     ],
-    "RESSiSTANCE_\u3050\u308b\u305f\u307f\u3093":[
+    "RESSiSTANCE_ぐるたみん":[
         {
             "bpm":"205",
-            "chapter":"Chapter EX-KALPA \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-KALPA 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3330,7 +3330,7 @@
                     }
                 ]
             },
-            "composer":"\u3050\u308b\u305f\u307f\u3093",
+            "composer":"ぐるたみん",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/06/RESSiSTANCE%28Phigros%29.png/300px-RESSiSTANCE%28Phigros%29.png",
             "illustrator":"LINUS",
             "length":"2:29",
@@ -3340,11 +3340,11 @@
     "RIPPER_Friedwav":[
         {
             "bpm":"150",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6495\u88c2\u8005\u300e\u7121\u6975\u300f fixed by \u6668",
+                        "charter":"撕裂者『無極』 fixed by 晨",
                         "combo":"520",
                         "difficulty":"7.8",
                         "level":"7"
@@ -3352,7 +3352,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6495\u88c2\u8005\u300e\u7121\u6975\u300f fixed by \u6668",
+                        "charter":"撕裂者『無極』 fixed by 晨",
                         "combo":"704",
                         "difficulty":"11.2",
                         "level":"11"
@@ -3369,7 +3369,7 @@
             },
             "composer":"Friedwav",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/21/RIPPER_Phigros.png/300px-RIPPER_Phigros.png",
-            "illustrator":"\u4f55\u5475",
+            "illustrator":"何呵",
             "length":"1:56",
             "song":"RIPPER"
         }
@@ -3377,7 +3377,7 @@
     "Re_Nascence (Psystyle Ver.)_Rinth_live":[
         {
             "bpm":"150",
-            "chapter":"Side Story 2 \u5f2d\u523b\u65e5",
+            "chapter":"Side Story 2 弭刻日",
             "chart":{
                 "EZ":[
                     {
@@ -3397,7 +3397,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"NerSAN & \u767e\u4e5d\u5341\u516b",
+                        "charter":"NerSAN & 百九十八",
                         "combo":"827",
                         "difficulty":"14.6",
                         "level":"14"
@@ -3414,11 +3414,11 @@
     "Reimei_":[
         {
             "bpm":"185",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"325",
                         "difficulty":"6.8",
                         "level":"6"
@@ -3426,7 +3426,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"644",
                         "difficulty":"11.9",
                         "level":"11"
@@ -3434,7 +3434,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"983",
                         "difficulty":"15.1",
                         "level":"15"
@@ -3443,7 +3443,7 @@
             },
             "composer":"",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/61/Reimei_Phigros.png/300px-Reimei_Phigros.png",
-            "illustrator":"\u82f1\u82f1\u82f1",
+            "illustrator":"英英英",
             "length":"2:26",
             "song":"Reimei"
         }
@@ -3451,7 +3451,7 @@
     "Rrhar'il_Team Grimoire":[
         {
             "bpm":"190",
-            "chapter":"Chapter 7 \u65f6\u949f\u94fe\u63a5",
+            "chapter":"Chapter 7 时钟链接",
             "chart":{
                 "AT":[
                     {
@@ -3488,7 +3488,7 @@
             },
             "composer":"Team Grimoire",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e5/Rrhar%27il_jacket.png/300px-Rrhar%27il_jacket.png",
-            "illustrator":"\u7280\u725b\u5768\u52a8\u753b\u5de5\u574a",
+            "illustrator":"犀牛坨动画工坊",
             "length":"2:12",
             "song":"Rrhar'il"
         }
@@ -3496,11 +3496,11 @@
     "Rubbish Sorting_Ctymax vs. NceS":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d vs. Ctymax -Haose \u5783\u573e-",
+                        "charter":"阿爽 vs. Ctymax -Haose 垃圾-",
                         "combo":"229",
                         "difficulty":"3.3",
                         "level":"3"
@@ -3508,7 +3508,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d vs. Ctymax -Haose \u5783\u573e-",
+                        "charter":"阿爽 vs. Ctymax -Haose 垃圾-",
                         "combo":"475",
                         "difficulty":"9.4",
                         "level":"9"
@@ -3516,7 +3516,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d vs. Ctymax -Haose \u5783\u573e-",
+                        "charter":"阿爽 vs. Ctymax -Haose 垃圾-",
                         "combo":"613",
                         "difficulty":"12.8",
                         "level":"12"
@@ -3525,7 +3525,7 @@
             },
             "composer":"Ctymax vs. NceS",
             "illustration":"https://img.moegirl.org.cn/common/thumb/f/f0/Rubbish_Sorting_Phigros.png/300px-Rubbish_Sorting_Phigros.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"2:46",
             "song":"Rubbish Sorting"
         }
@@ -3533,7 +3533,7 @@
     "SIGMA_Kry.exe":[
         {
             "bpm":"200",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3545,7 +3545,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"B\u03c3rb\u03c3ri\u03c3nerm\u03c3n.exe",
+                        "charter":"Bσrbσriσnermσn.exe",
                         "combo":"516",
                         "difficulty":"11.5",
                         "level":"11"
@@ -3553,7 +3553,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"B\u03c3rb\u03c3ri\u03c3n\u2211rm\u03c3n.\u2211x\u2211",
+                        "charter":"Bσrbσriσn∑rmσn.∑x∑",
                         "combo":"785",
                         "difficulty":"15.6",
                         "level":"15"
@@ -3562,7 +3562,7 @@
             },
             "composer":"Kry.exe",
             "illustration":"https://img.moegirl.org.cn/common/thumb/a/ab/SIGMA_Phigros.png/300px-SIGMA_Phigros.png",
-            "illustrator":"\u5854\u5854",
+            "illustrator":"塔塔",
             "length":"2:01",
             "song":"SIGMA"
         }
@@ -3570,7 +3570,7 @@
     "Sein_":[
         {
             "bpm":"210",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3604,10 +3604,10 @@
             "song":"Sein"
         }
     ],
-    "Shadow_\u59dc\u7c73\u6761&SumaiLight":[
+    "Shadow_姜米条&SumaiLight":[
         {
             "bpm":"172",
-            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-姜米條 精选集",
             "chart":{
                 "AT":[
                     {
@@ -3619,7 +3619,7 @@
                 ],
                 "EZ":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"393",
                         "difficulty":"4.7",
                         "level":"4"
@@ -3627,7 +3627,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"549",
                         "difficulty":"10.3",
                         "level":"10"
@@ -3635,16 +3635,16 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Sillyp vs \u6668",
+                        "charter":"Sillyp vs 晨",
                         "combo":"840",
                         "difficulty":"14.5",
                         "level":"14"
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u6761&SumaiLight",
+            "composer":"姜米条&SumaiLight",
             "illustration":"https://img.moegirl.org.cn/common/thumb/f/fe/Shadow_Phigros.png/300px-Shadow_Phigros.png",
-            "illustrator":"\u5fa1\u5742\u679c\u5b50",
+            "illustrator":"御坂果子",
             "length":"2:23",
             "song":"Shadow"
         }
@@ -3652,7 +3652,7 @@
     "Snow Desert_WyvernP":[
         {
             "bpm":"125",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3681,7 +3681,7 @@
             },
             "composer":"WyvernP",
             "illustration":"https://img.moegirl.org.cn/common/thumb/d/d8/Snow_Desert_Phigros.png/300px-Snow_Desert_Phigros.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"2:23",
             "song":"Snow Desert"
         }
@@ -3689,7 +3689,7 @@
     "Sparkle New Life_rider":[
         {
             "bpm":"150",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3709,7 +3709,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Sparkle Ctymax fixed by \u767e\u4e5d\u5341\u516b",
+                        "charter":"Sparkle Ctymax fixed by 百九十八",
                         "combo":"684",
                         "difficulty":"12.4",
                         "level":"12"
@@ -3723,14 +3723,14 @@
             "song":"Sparkle New Life"
         }
     ],
-    "Spasmodic_\u59dc\u7c73\u689d\u2606\u98b6\u98a8~\u266b\u5143\u529b\u4e0a\u4eba\u266b":[
+    "Spasmodic_姜米條☆颶風~♫元力上人♫":[
         {
             "bpm":"200",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "AT":[
                     {
-                        "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
+                        "charter":"無極☆雷鳴~♫死の序曲♫",
                         "combo":"1671",
                         "difficulty":"16.4",
                         "level":"16"
@@ -3738,7 +3738,7 @@
                 ],
                 "EZ":[
                     {
-                        "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
+                        "charter":"無極☆雷鳴~♫死の序曲♫",
                         "combo":"637",
                         "difficulty":"7.9",
                         "level":"7"
@@ -3746,7 +3746,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
+                        "charter":"無極☆雷鳴~♫死の序曲♫",
                         "combo":"904",
                         "difficulty":"12.6",
                         "level":"12"
@@ -3754,16 +3754,16 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u7121\u6975\u2606\u96f7\u9cf4~\u266b\u6b7b\u306e\u5e8f\u66f2\u266b",
+                        "charter":"無極☆雷鳴~♫死の序曲♫",
                         "combo":"1389",
                         "difficulty":"15.2",
                         "level":"15"
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d\u2606\u98b6\u98a8~\u266b\u5143\u529b\u4e0a\u4eba\u266b",
+            "composer":"姜米條☆颶風~♫元力上人♫",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/ce/Spasmodic.png/300px-Spasmodic.png",
-            "illustrator":"\u6614\u7483\u2606\u66b4\u96e8~\u266b\u5371\u96e3\u8056\u5e1d\u266b",
+            "illustrator":"昔璃☆暴雨~♫危難聖帝♫",
             "length":"2:35",
             "song":"Spasmodic"
         }
@@ -3771,11 +3771,11 @@
     "Speed Up!_DarTokki":[
         {
             "bpm":"145",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Ctymax VS \u767e\u4e5d\u5341\u516b",
+                        "charter":"Ctymax VS 百九十八",
                         "combo":"262",
                         "difficulty":"4.3",
                         "level":"4"
@@ -3783,7 +3783,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Ctymax VS \u767e\u4e5d\u5341\u516b",
+                        "charter":"Ctymax VS 百九十八",
                         "combo":"463",
                         "difficulty":"10.3",
                         "level":"10"
@@ -3791,7 +3791,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Ctymax VS \u767e\u4e5d\u5341\u516b",
+                        "charter":"Ctymax VS 百九十八",
                         "combo":"711",
                         "difficulty":"14.3",
                         "level":"14"
@@ -3808,7 +3808,7 @@
     "Starduster_Quree":[
         {
             "bpm":"110",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3845,11 +3845,11 @@
     "Stasis_Maozon":[
         {
             "bpm":"180",
-            "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Lanota 精选集",
             "chart":{
                 "AT":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"1700",
                         "difficulty":"16.4",
                         "level":"16"
@@ -3882,7 +3882,7 @@
             },
             "composer":"Maozon",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e1/Phisong_stasis.png/300px-Phisong_stasis.png",
-            "illustrator":"Lanota \u00a9 Noxy Games Inc.",
+            "illustrator":"Lanota © Noxy Games Inc.",
             "length":"2:33",
             "song":"Stasis"
         }
@@ -3890,11 +3890,11 @@
     "Sultan Rage_MonstDeath":[
         {
             "bpm":"155",
-            "chapter":"Chapter 4 \u7ba1\u9053\u8ff7\u5bab",
+            "chapter":"Chapter 4 管道迷宫",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"159",
                         "difficulty":"3.9",
                         "level":"3"
@@ -3902,7 +3902,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"334",
                         "difficulty":"8.5",
                         "level":"8"
@@ -3910,7 +3910,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"485",
                         "difficulty":"12.5",
                         "level":"12"
@@ -3919,7 +3919,7 @@
             },
             "composer":"MonstDeath",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/08/Sultan_Rage_Phigros.png/300px-Sultan_Rage_Phigros.png",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"1:56",
             "song":"Sultan Rage"
         }
@@ -3927,11 +3927,11 @@
     "The Mountain Eater from MUSYNC_Paul Bazooka":[
         {
             "bpm":"127",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"210",
                         "difficulty":"4.3",
                         "level":"4"
@@ -3939,7 +3939,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"386",
                         "difficulty":"9.1",
                         "level":"9"
@@ -3947,7 +3947,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"697",
                         "difficulty":"14.4",
                         "level":"14"
@@ -3964,7 +3964,7 @@
     "Time to Night Sky (feat. Lee Yu Jin)_HyuN & KLYDIX":[
         {
             "bpm":"128",
-            "chapter":"Chapter EX-KALPA \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-KALPA 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -3998,10 +3998,10 @@
             "song":"Time to Night Sky (feat. Lee Yu Jin)"
         }
     ],
-    "Tr\u00e4ne_MALVA.":[
+    "Träne_MALVA.":[
         {
             "bpm":"135",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4032,13 +4032,13 @@
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/61/Trane_Phigros.png/300px-Trane_Phigros.png",
             "illustrator":"",
             "length":"2:27",
-            "song":"Tr\u00e4ne"
+            "song":"Träne"
         }
     ],
     "Unorthodox Thoughts_Joulez":[
         {
             "bpm":"146",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4072,10 +4072,10 @@
             "song":"Unorthodox Thoughts"
         }
     ],
-    "WATER_A-39/\u6c99\u5305P":[
+    "WATER_A-39/沙包P":[
         {
             "bpm":"170",
-            "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
+            "chapter":"Side Story 1 忘忧宫",
             "chart":{
                 "EZ":[
                     {
@@ -4102,9 +4102,9 @@
                     }
                 ]
             },
-            "composer":"A-39/\u6c99\u5305P",
+            "composer":"A-39/沙包P",
             "illustration":"https://img.moegirl.org.cn/common/thumb/a/ad/WATER_Phigros.png/300px-WATER_Phigros.png",
-            "illustrator":"knife\u7f8e\u5de5\u5200",
+            "illustrator":"knife美工刀",
             "length":"2:37",
             "song":"WATER"
         }
@@ -4112,7 +4112,7 @@
     "Wavetapper_Frums":[
         {
             "bpm":"112",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4132,7 +4132,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b vs. Barbarianerman",
+                        "charter":"百九十八 vs. Barbarianerman",
                         "combo":"866",
                         "difficulty":"13.8",
                         "level":"13"
@@ -4141,19 +4141,19 @@
             },
             "composer":"Frums",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/1e/Wavetapper_Phigros.png/300px-Wavetapper_Phigros.png",
-            "illustrator":"\u767e\u4e5d\u5341\u516b",
+            "illustrator":"百九十八",
             "length":"2:42",
             "song":"Wavetapper"
         }
     ],
-    "Winter\u2191cube\u2193_Ctymax feat. NceS":[
+    "Winter↑cube↓_Ctymax feat. NceS":[
         {
             "bpm":"104",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u5c0f\u9e4f fixed by Barbarianerman",
+                        "charter":"小鹏 fixed by Barbarianerman",
                         "combo":"401",
                         "difficulty":"6.7",
                         "level":"6"
@@ -4161,7 +4161,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u5c0f\u9e4f fixed by Barbarianerman",
+                        "charter":"小鹏 fixed by Barbarianerman",
                         "combo":"696",
                         "difficulty":"10.7",
                         "level":"10"
@@ -4169,7 +4169,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"733",
                         "difficulty":"13.4",
                         "level":"13"
@@ -4178,15 +4178,15 @@
             },
             "composer":"Ctymax feat. NceS",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/7c/Winter_Cube_Phigros.png/300px-Winter_Cube_Phigros.png",
-            "illustrator":"\u7fe0\u51b7\u516e",
+            "illustrator":"翠冷兮",
             "length":"2:36",
-            "song":"Winter\u2191cube\u2193"
+            "song":"Winter↑cube↓"
         }
     ],
     "With You_Cashew":[
         {
             "bpm":"170",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4223,7 +4223,7 @@
     "XING_ginkiha":[
         {
             "bpm":"177",
-            "chapter":"Chapter EX-Muse Dash \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Muse Dash 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4243,7 +4243,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Sillyp vs. \u963f\u723d",
+                        "charter":"Sillyp vs. 阿爽",
                         "combo":"711",
                         "difficulty":"13.8",
                         "level":"13"
@@ -4252,7 +4252,7 @@
             },
             "composer":"ginkiha",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/2c/XING_Phigros.png/300px-XING_Phigros.png",
-            "illustrator":"\u6253\u96f7\u6253\u4eba\uff08\u9752\u9e1fmodified\uff09",
+            "illustrator":"打雷打人（青鸟modified）",
             "length":"2:16",
             "song":"XING"
         }
@@ -4260,7 +4260,7 @@
     "You are the Miserable_t+pazolite":[
         {
             "bpm":"163",
-            "chapter":"Chapter EX-Lanota \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Lanota 精选集",
             "chart":{
                 "AT":[
                     {
@@ -4297,7 +4297,7 @@
             },
             "composer":"t+pazolite",
             "illustration":"https://img.moegirl.org.cn/common/thumb/f/fe/Phisong_you_are_the_miserable.png/300px-Phisong_you_are_the_miserable.png",
-            "illustrator":"Lanota \u00a9 Noxy Games Inc.",
+            "illustrator":"Lanota © Noxy Games Inc.",
             "length":"2:51",
             "song":"You are the Miserable"
         }
@@ -4305,11 +4305,11 @@
     "[PRAW]_BlueWind":[
         {
             "bpm":"210",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"419",
                         "difficulty":"4.4",
                         "level":"4"
@@ -4317,7 +4317,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"692",
                         "difficulty":"11.8",
                         "level":"11"
@@ -4325,7 +4325,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668 vs. \u963f\u723d",
+                        "charter":"晨 vs. 阿爽",
                         "combo":"1171",
                         "difficulty":"14.9",
                         "level":"14"
@@ -4334,7 +4334,7 @@
             },
             "composer":"BlueWind",
             "illustration":"https://img.moegirl.org.cn/common/thumb/b/be/PRAW_Phigros.png/300px-PRAW_Phigros.png",
-            "illustrator":"\u8001\u5f20",
+            "illustrator":"老张",
             "length":"2:37",
             "song":"[PRAW]"
         }
@@ -4342,7 +4342,7 @@
     "_":[
         {
             "bpm":"177",
-            "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
+            "chapter":"Side Story 1 忘忧宫",
             "chart":{
                 "AT":[
                     {
@@ -4370,7 +4370,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Arenn Saki as \"lA\u03b2yrinS\"",
+                        "charter":"Arenn Saki as \"lAβyrinS\"",
                         "combo":"1122",
                         "difficulty":"15.9",
                         "level":"15"
@@ -4379,19 +4379,19 @@
             },
             "composer":"",
             "illustration":"https://img.moegirl.org.cn/common/thumb/b/b0/Phigros_Lyrith.png/300px-Phigros_Lyrith.png",
-            "illustrator":"\u4f55\u5475",
+            "illustrator":"何呵",
             "length":"2:27",
             "song":""
         }
     ],
-    "_5-HTP/\u674e\u7965\u6656":[
+    "_5-HTP/李祥晖":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d fixed by Barbarianerman",
+                        "charter":"阿爽 fixed by Barbarianerman",
                         "combo":"114",
                         "difficulty":"2.5",
                         "level":"2"
@@ -4399,7 +4399,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d fixed by Barbarianerman",
+                        "charter":"阿爽 fixed by Barbarianerman",
                         "combo":"210",
                         "difficulty":"5.7",
                         "level":"5"
@@ -4414,9 +4414,9 @@
                     }
                 ]
             },
-            "composer":"5-HTP/\u674e\u7965\u6656",
+            "composer":"5-HTP/李祥晖",
             "illustration":"https://img.moegirl.org.cn/common/thumb/8/80/Dash_Phigros.png/300px-Dash_Phigros.png",
-            "illustrator":"\u827e\u662fAbby",
+            "illustrator":"艾是Abby",
             "length":"1:54",
             "song":""
         }
@@ -4424,7 +4424,7 @@
     "_A-39":[
         {
             "bpm":"180",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4453,15 +4453,15 @@
             },
             "composer":"A-39",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/06/Yuki_Ori_Meri_Kuri_Phigros.png/300px-Yuki_Ori_Meri_Kuri_Phigros.png",
-            "illustrator":"\u7280\u725b\u5768\u52a8\u753b\u5de5\u574a",
+            "illustrator":"犀牛坨动画工坊",
             "length":"2:38",
             "song":""
         }
     ],
-    "_A-39/\u6c99\u5305P":[
+    "_A-39/沙包P":[
         {
             "bpm":"175",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4488,9 +4488,9 @@
                     }
                 ]
             },
-            "composer":"A-39/\u6c99\u5305P",
+            "composer":"A-39/沙包P",
             "illustration":"https://img.moegirl.org.cn/common/thumb/3/33/%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%28Jingle_Bell%29_Phigros.png/300px-%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%28Jingle_Bell%29_Phigros.png",
-            "illustrator":"\u723139\u7684Konya",
+            "illustrator":"爱39的Konya",
             "length":"2:48",
             "song":""
         }
@@ -4498,7 +4498,7 @@
     "_Asuka":[
         {
             "bpm":"126",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4518,7 +4518,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"NerSAN & \u767e\u4e5d\u5341\u516b",
+                        "charter":"NerSAN & 百九十八",
                         "combo":"1031",
                         "difficulty":"14.1",
                         "level":"14"
@@ -4535,11 +4535,11 @@
     "_LeaF":[
         {
             "bpm":"230",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "AT":[
                     {
-                        "charter":"Catcats aka. \u7121\u6975 VS H.C.C. fixed by \u91ce\u4ece&\u6668",
+                        "charter":"Catcats aka. 無極 VS H.C.C. fixed by 野从&晨",
                         "combo":"1325",
                         "difficulty":"16.1",
                         "level":"16"
@@ -4547,7 +4547,7 @@
                 ],
                 "EZ":[
                     {
-                        "charter":"Catcats aka. \u7121\u6975 VS H.C.C. fixed by \u6668",
+                        "charter":"Catcats aka. 無極 VS H.C.C. fixed by 晨",
                         "combo":"472",
                         "difficulty":"6.8",
                         "level":"6"
@@ -4555,7 +4555,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Catcats aka. \u7121\u6975 VS H.C.C. fixed by Pcat",
+                        "charter":"Catcats aka. 無極 VS H.C.C. fixed by Pcat",
                         "combo":"651",
                         "difficulty":"10.8",
                         "level":"10"
@@ -4563,7 +4563,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u6668",
+                        "charter":"晨",
                         "combo":"968",
                         "difficulty":"14.4",
                         "level":"14"
@@ -4580,7 +4580,7 @@
     "_adaptor vs DRIVE.":[
         {
             "bpm":"158",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4600,7 +4600,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Eaimo vs. CtyNer dancing wildly",
+                        "charter":"",
                         "combo":"1002",
                         "difficulty":"14.8",
                         "level":"14"
@@ -4617,7 +4617,7 @@
     "_kozato snow":[
         {
             "bpm":"135",
-            "chapter":"Chapter EX-WAVEAT \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-WAVEAT 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4637,7 +4637,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"459",
                         "difficulty":"12.6",
                         "level":"12"
@@ -4654,11 +4654,11 @@
     "_rider":[
         {
             "bpm":"152",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u5965\u8853 ~The Empery~",
+                        "charter":"",
                         "combo":"180",
                         "difficulty":"3.6",
                         "level":"3"
@@ -4666,7 +4666,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u5965\u8853 ~The Empery~",
+                        "charter":"",
                         "combo":"346",
                         "difficulty":"9.4",
                         "level":"9"
@@ -4691,7 +4691,7 @@
     "c.s.q.n._Aoi":[
         {
             "bpm":"174",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4720,7 +4720,7 @@
             },
             "composer":"Aoi",
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/64/Csqn_Phigros.png/300px-Csqn_Phigros.png",
-            "illustrator":"Ctymax vs. TNiK feat. \u51fa\u524d",
+            "illustrator":"Ctymax vs. TNiK feat. 出前",
             "length":"2:04",
             "song":"c.s.q.n."
         }
@@ -4728,7 +4728,7 @@
     "cryout_Ju_E":[
         {
             "bpm":"180",
-            "chapter":"Chapter 5 \u9713\u8679\u706f\u724c",
+            "chapter":"Chapter 5 霓虹灯牌",
             "chart":{
                 "EZ":[
                     {
@@ -4765,11 +4765,11 @@
     "dB doll_YUE.STEVEN/uen":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "AT":[
                     {
-                        "charter":"NerSAN & \u767e\u4e5d\u5341\u516b",
+                        "charter":"NerSAN & 百九十八",
                         "combo":"377",
                         "difficulty":"13.6",
                         "level":"13"
@@ -4777,7 +4777,7 @@
                 ],
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d fixed by Barbarianerman",
+                        "charter":"阿爽 fixed by Barbarianerman",
                         "combo":"60",
                         "difficulty":"1.3",
                         "level":"1"
@@ -4785,7 +4785,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d fixed by Barbarianerman",
+                        "charter":"阿爽 fixed by Barbarianerman",
                         "combo":"124",
                         "difficulty":"3.6",
                         "level":"3"
@@ -4793,7 +4793,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"237",
                         "difficulty":"6.2",
                         "level":"6"
@@ -4802,7 +4802,7 @@
             },
             "composer":"YUE.STEVEN/uen",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/ca/DB_doll_Phigros.png/300px-DB_doll_Phigros.png",
-            "illustrator":"\u4f55\u5475",
+            "illustrator":"何呵",
             "length":"1:49",
             "song":"dB doll"
         }
@@ -4810,7 +4810,7 @@
     "energy trixxx_KAH":[
         {
             "bpm":"160",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4844,10 +4844,10 @@
             "song":"energy trixxx"
         }
     ],
-    "inferior_\u59dc\u7c73\u689d":[
+    "inferior_姜米條":[
         {
             "bpm":"200",
-            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-姜米條 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4874,9 +4874,9 @@
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d",
+            "composer":"姜米條",
             "illustration":"https://img.moegirl.org.cn/common/thumb/4/47/Inferior.png/300px-Inferior.png",
-            "illustrator":"\u7fa4\u9752kurara",
+            "illustrator":"群青kurara",
             "length":"2:03",
             "song":"inferior"
         }
@@ -4884,11 +4884,11 @@
     "life flashes before weeb eyes_BilliumMoto":[
         {
             "bpm":"227",
-            "chapter":"Chapter EX-Rising Sun Traxx \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Rising Sun Traxx 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"567",
                         "difficulty":"6.6",
                         "level":"6"
@@ -4896,7 +4896,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"960",
                         "difficulty":"11.9",
                         "level":"11"
@@ -4904,7 +4904,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"1065",
                         "difficulty":"14.8",
                         "level":"14"
@@ -4913,7 +4913,7 @@
             },
             "composer":"BilliumMoto",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/1a/Life_flashes_before_weeb_eyes_Phigros.png/300px-Life_flashes_before_weeb_eyes_Phigros.png",
-            "illustrator":"\u767e\u4e5d\u5341\u516b",
+            "illustrator":"百九十八",
             "length":"2:37",
             "song":"life flashes before weeb eyes"
         }
@@ -4921,7 +4921,7 @@
     "mechanted_rareguy":[
         {
             "bpm":"172",
-            "chapter":"Chapter EX-Rising Sun Traxx \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-Rising Sun Traxx 精选集",
             "chart":{
                 "EZ":[
                     {
@@ -4958,11 +4958,11 @@
     "micro.wav_dandeless":[
         {
             "bpm":"172",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"196",
                         "difficulty":"6.2",
                         "level":"6"
@@ -4970,7 +4970,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"459",
                         "difficulty":"10.7",
                         "level":"10"
@@ -4978,7 +4978,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u767e\u4e5d\u5341\u516b",
+                        "charter":"百九十八",
                         "combo":"649",
                         "difficulty":"14.5",
                         "level":"14"
@@ -4995,7 +4995,7 @@
     "modulus_PTB10":[
         {
             "bpm":"158",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5032,7 +5032,7 @@
     "opia_rN":[
         {
             "bpm":"193",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5044,7 +5044,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"BlindForest\u300eObserving\u300f",
+                        "charter":"BlindForest『Observing』",
                         "combo":"548",
                         "difficulty":"11.6",
                         "level":"11"
@@ -5061,7 +5061,7 @@
             },
             "composer":"rN",
             "illustration":"https://img.moegirl.org.cn/common/thumb/4/40/Opia_Phigros.png/300px-Opia_Phigros.png",
-            "illustrator":"rN @ \u6e6f\u5143\u753b\u4f2f",
+            "illustrator":"rN @ 湯元画伯",
             "length":"2:30",
             "song":"opia"
         }
@@ -5069,7 +5069,7 @@
     "volcanic_":[
         {
             "bpm":"191~382",
-            "chapter":"Chapter EX-WAVEAT \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-WAVEAT 精选集",
             "chart":{
                 "AT":[
                     {
@@ -5111,10 +5111,10 @@
             "song":"volcanic"
         }
     ],
-    "\u00c4ventyr_Grand Thaw / Rig\u00ebl Theatre":[
+    "Äventyr_Grand Thaw / Rigël Theatre":[
         {
             "bpm":"114~132",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5141,21 +5141,21 @@
                     }
                 ]
             },
-            "composer":"Grand Thaw / Rig\u00ebl Theatre",
+            "composer":"Grand Thaw / Rigël Theatre",
             "illustration":"https://img.moegirl.org.cn/common/thumb/c/c8/Aventyr.png/300px-Aventyr.png",
-            "illustrator":"Grand Thaw / Rig\u00ebl Theatre",
+            "illustrator":"Grand Thaw / Rigël Theatre",
             "length":"2:40",
-            "song":"\u00c4ventyr"
+            "song":"Äventyr"
         }
     ],
-    "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd_1112 vs. Star*":[
+    "Ποσειδών_1112 vs. Star*":[
         {
             "bpm":"175",
-            "chapter":"Side Story 1 \u5fd8\u5fe7\u5bab",
+            "chapter":"Side Story 1 忘忧宫",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"J\u03b1ck\u03c8 a.k.a JKy",
+                        "charter":"Jαckψ a.k.a JKy",
                         "combo":"533",
                         "difficulty":"4.7",
                         "level":"4"
@@ -5163,7 +5163,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"J\u03b1ck\u03c8",
+                        "charter":"Jαckψ",
                         "combo":"397",
                         "difficulty":"8.4",
                         "level":"8"
@@ -5171,7 +5171,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"J\u03b1ck\u03c8 feat. \u0392\u03b1\u03c1\u03b2\u03b1\u03c1\u03bf\u03c2\u03b1\u03bd\u03c4\u03c1\u03b1\u03c2",
+                        "charter":"Jαckψ feat. Βαρβαροςαντρας",
                         "combo":"450",
                         "difficulty":"12.8",
                         "level":"12"
@@ -5180,15 +5180,15 @@
             },
             "composer":"1112 vs. Star*",
             "illustration":"https://img.moegirl.org.cn/common/thumb/0/01/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png/300px-%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png",
-            "illustrator":"\u8001\u5f20",
+            "illustrator":"老张",
             "length":"2:03",
-            "song":"\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd"
+            "song":"Ποσειδών"
         }
     ],
-    "\u03c1ars/ey_siqlo":[
+    "ρars/ey_siqlo":[
         {
             "bpm":"180",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5219,13 +5219,13 @@
             "illustration":"https://img.moegirl.org.cn/common/thumb/5/5c/Parsley_jacket.png/300px-Parsley_jacket.png",
             "illustrator":"",
             "length":"2:04",
-            "song":"\u03c1ars/ey"
+            "song":"ρars/ey"
         }
     ],
-    "\u3044\u3056\u3001\u53c2\u308a\u307e\u3059_U-ske feat. \u67a3\u3044\u3064\u304d":[
+    "いざ、参ります_":[
         {
             "bpm":"188",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5245,24 +5245,24 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u5c0f\u54a9\u5154\u3001\u53c2\u4e0a",
+                        "charter":"小咩兔、参上",
                         "combo":"865",
                         "difficulty":"15.1",
                         "level":"15"
                     }
                 ]
             },
-            "composer":"U-ske feat. \u67a3\u3044\u3064\u304d",
+            "composer":"",
             "illustration":"https://img.moegirl.org.cn/common/thumb/4/4e/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99_Phigros.png/300px-%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99_Phigros.png",
-            "illustrator":"\u7eff\u98ce\u30de\u30eb\u30c8",
+            "illustrator":"绿风マルト",
             "length":"1:43",
-            "song":"\u3044\u3056\u3001\u53c2\u308a\u307e\u3059"
+            "song":"いざ、参ります"
         }
     ],
-    "\u4e07\u5428\u533f\u540d\u4fe1_\u95eb\u4e1c\u709c":[
+    "万吨匿名信_闫东炜":[
         {
             "bpm":"120",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5289,17 +5289,17 @@
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/1/15/Wandunnimingxin_new_illustration.png/300px-Wandunnimingxin_new_illustration.png",
             "illustrator":"IvyTowers",
             "length":"2:45",
-            "song":"\u4e07\u5428\u533f\u540d\u4fe1"
+            "song":"万吨匿名信"
         }
     ],
-    "\u4e91\u5973\u5b69_\u7b26\u767d\u7259/SiYFics":[
+    "云女孩_符白牙/SiYFics":[
         {
             "bpm":"155",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5326,21 +5326,21 @@
                     }
                 ]
             },
-            "composer":"\u7b26\u767d\u7259/SiYFics",
+            "composer":"符白牙/SiYFics",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e7/%E4%BA%91%E5%A5%B3%E5%AD%A9_Phigros.png/300px-%E4%BA%91%E5%A5%B3%E5%AD%A9_Phigros.png",
-            "illustrator":"\u5fa1\u5742\u679c\u5b50",
+            "illustrator":"御坂果子",
             "length":"2:59",
-            "song":"\u4e91\u5973\u5b69"
+            "song":"云女孩"
         }
     ],
-    "\u5149_\u59dc\u7c73\u689d":[
+    "光_姜米條":[
         {
             "bpm":"180",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Catcats & \u767e\u4e5d\u5341\u516b",
+                        "charter":"Catcats & 百九十八",
                         "combo":"249",
                         "difficulty":"4.9",
                         "level":"4"
@@ -5348,7 +5348,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Catcats & \u767e\u4e5d\u5341\u516b",
+                        "charter":"Catcats & 百九十八",
                         "combo":"453",
                         "difficulty":"8.4",
                         "level":"8"
@@ -5356,28 +5356,28 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Catcats & \u767e\u4e5d\u5341\u516b",
+                        "charter":"Catcats & 百九十八",
                         "combo":"517",
                         "difficulty":"12.8",
                         "level":"12"
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d",
+            "composer":"姜米條",
             "illustration":"https://img.moegirl.org.cn/common/thumb/5/57/%E5%85%89_Phigros.png/300px-%E5%85%89_Phigros.png",
             "illustrator":"winder",
             "length":"2:12",
-            "song":"\u5149"
+            "song":"光"
         }
     ],
-    "\u5f00\u5fc3\u75c5_\u95eb\u4e1c\u709c":[
+    "开心病_闫东炜":[
         {
             "bpm":"131",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"158",
                         "difficulty":"3.7",
                         "level":"3"
@@ -5385,7 +5385,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d",
+                        "charter":"阿爽",
                         "combo":"442",
                         "difficulty":"9.8",
                         "level":"9"
@@ -5393,28 +5393,28 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Barbarianerman feat. \u6668",
+                        "charter":"Barbarianerman feat. 晨",
                         "combo":"840",
                         "difficulty":"14.4",
                         "level":"14"
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e1/%E5%BC%80%E5%BF%83%E7%97%85_Phigros.png/300px-%E5%BC%80%E5%BF%83%E7%97%85_Phigros.png",
-            "illustrator":"\u55b5n\u8475",
+            "illustrator":"喵n葵",
             "length":"1:55",
-            "song":"\u5f00\u5fc3\u75c5"
+            "song":"开心病"
         }
     ],
-    "\u5fc3\u4e4b\u6240\u5411_\u59dc\u7c73\u689d":[
+    "心之所向_姜米條":[
         {
             "bpm":"180",
-            "chapter":"Chapter EX-\u59dc\u7c73\u689d \u7cbe\u9009\u96c6",
+            "chapter":"Chapter EX-姜米條 精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6ce2\u4e4b\u6240\u6742",
+                        "charter":"",
                         "combo":"226",
                         "difficulty":"4.4",
                         "level":"4"
@@ -5422,7 +5422,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6ce2\u4e4b\u6240\u6742",
+                        "charter":"",
                         "combo":"422",
                         "difficulty":"9.7",
                         "level":"9"
@@ -5430,28 +5430,28 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u502a\u4e4b\u6240\u723d",
+                        "charter":"",
                         "combo":"713",
                         "difficulty":"13.6",
                         "level":"13"
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d",
+            "composer":"姜米條",
             "illustration":"https://img.moegirl.org.cn/common/thumb/8/87/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png/300px-%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png",
-            "illustrator":"\u7b14\u8bb0RE",
+            "illustrator":"笔记RE",
             "length":"2:16",
-            "song":"\u5fc3\u4e4b\u6240\u5411"
+            "song":"心之所向"
         }
     ],
-    "\u6708\u4e0b\u7f2d\u4e71_\u6708\u89c1\u9759\u534e vs. LUNARiUM":[
+    "月下缭乱_月见静华 vs. LUNARiUM":[
         {
             "bpm":"175",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"419",
                         "difficulty":"4.8",
                         "level":"4"
@@ -5459,7 +5459,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"533",
                         "difficulty":"9.4",
                         "level":"9"
@@ -5474,17 +5474,17 @@
                     }
                 ]
             },
-            "composer":"\u6708\u89c1\u9759\u534e vs. LUNARiUM",
+            "composer":"月见静华 vs. LUNARiUM",
             "illustration":"https://img.moegirl.org.cn/common/thumb/2/2c/%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1_Phigros_2.png/300px-%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1_Phigros_2.png",
             "illustrator":"TNiK",
             "length":"2:30",
-            "song":"\u6708\u4e0b\u7f2d\u4e71"
+            "song":"月下缭乱"
         }
     ],
-    "\u671b\u5f71\u306e\u65b9\u821fSix_Se-U-Ra":[
+    "望影の方舟Six_Se-U-Ra":[
         {
             "bpm":"209",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "EZ":[
                     {
@@ -5513,19 +5513,19 @@
             },
             "composer":"Se-U-Ra",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/e2/Houyou_no_hakobune_Six_Phigros.png/300px-Houyou_no_hakobune_Six_Phigros.png",
-            "illustrator":"\u9cb8\u5f11",
+            "illustrator":"鲸弑",
             "length":"1:53",
-            "song":"\u671b\u5f71\u306e\u65b9\u821fSix"
+            "song":"望影の方舟Six"
         }
     ],
-    "\u6df7\u4e71-Confusion_OnlyMyBlackScore":[
+    "混乱-Confusion_OnlyMyBlackScore":[
         {
             "bpm":"180",
-            "chapter":"Chapter Legacy \u8fc7\u53bb\u7684\u7ae0\u8282",
+            "chapter":"Chapter Legacy 过去的章节",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u6708\u4e0b\u6a31&115",
+                        "charter":"月下樱&115",
                         "combo":"290",
                         "difficulty":"5.3",
                         "level":"5"
@@ -5533,7 +5533,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u6708\u4e0b\u6a31&115",
+                        "charter":"月下樱&115",
                         "combo":"602",
                         "difficulty":"11.4",
                         "level":"11"
@@ -5541,7 +5541,7 @@
                 ],
                 "IN":[
                     {
-                        "charter":"XMT\u5c0f\u54a9\u5154",
+                        "charter":"XMT小咩兔",
                         "combo":"978",
                         "difficulty":"14.8",
                         "level":"14"
@@ -5552,13 +5552,13 @@
             "illustration":"https://img.moegirl.org.cn/common/thumb/6/6f/Confusion_Phigros.png/300px-Confusion_Phigros.png",
             "illustrator":"L-sp4",
             "length":"2:08",
-            "song":"\u6df7\u4e71-Confusion"
+            "song":"混乱-Confusion"
         }
     ],
-    "\u6e38\u56ed\u5730_\u6912\u76d0\u83e0\u841d":[
+    "游园地_椒盐菠萝":[
         {
             "bpm":"128",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5585,17 +5585,17 @@
                     }
                 ]
             },
-            "composer":"\u6912\u76d0\u83e0\u841d",
+            "composer":"椒盐菠萝",
             "illustration":"https://img.moegirl.org.cn/common/thumb/8/8f/%E6%B8%B8%E5%9B%AD%E5%9C%B0_Phigros.png/300px-%E6%B8%B8%E5%9B%AD%E5%9C%B0_Phigros.png",
             "illustrator":"CEM",
             "length":"2:07",
-            "song":"\u6e38\u56ed\u5730"
+            "song":"游园地"
         }
     ],
-    "\u83ef\u706f\u7231_\u95eb\u4e1c\u709c":[
+    "華灯爱_闫东炜":[
         {
             "bpm":"120",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
@@ -5622,21 +5622,21 @@
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/a/a9/%E8%8F%AF%E7%81%AF%E7%88%B1_Phigros.png/300px-%E8%8F%AF%E7%81%AF%E7%88%B1_Phigros.png",
             "illustrator":"IvyTowers",
             "length":"1:54",
-            "song":"\u83ef\u706f\u7231"
+            "song":"華灯爱"
         }
     ],
-    "\u8424\u706b\u866b\u306e\u6028_\u95eb\u4e1c\u709c":[
+    "萤火虫の怨_闫东炜":[
         {
             "bpm":"100",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"\u963f\u723d & \u767e\u4e5d\u5341\u516b",
+                        "charter":"阿爽 & 百九十八",
                         "combo":"245",
                         "difficulty":"4.3",
                         "level":"4"
@@ -5644,7 +5644,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"\u963f\u723d & \u767e\u4e5d\u5341\u516b",
+                        "charter":"阿爽 & 百九十八",
                         "combo":"746",
                         "difficulty":"10.6",
                         "level":"10"
@@ -5652,24 +5652,24 @@
                 ],
                 "IN":[
                     {
-                        "charter":"\u963f\u723d & \u767e\u4e5d\u5341\u516b",
+                        "charter":"阿爽 & 百九十八",
                         "combo":"885",
                         "difficulty":"13.1",
                         "level":"13"
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/4/4f/%E8%90%A4%E7%81%AB%E8%99%AB%E3%81%AE%E6%80%A8_Phigros.png/300px-%E8%90%A4%E7%81%AB%E8%99%AB%E3%81%AE%E6%80%A8_Phigros.png",
             "illustrator":"L-sp4",
             "length":"2:38",
-            "song":"\u8424\u706b\u866b\u306e\u6028"
+            "song":"萤火虫の怨"
         }
     ],
-    "\u91cd\u751f_\u59dc\u7c73\u689d":[
+    "重生_姜米條":[
         {
             "bpm":"195",
-            "chapter":"Chapter 6 \u65b9\u821f\u8703\u666f",
+            "chapter":"Chapter 6 方舟蜃景",
             "chart":{
                 "EZ":[
                     {
@@ -5696,21 +5696,21 @@
                     }
                 ]
             },
-            "composer":"\u59dc\u7c73\u689d",
+            "composer":"姜米條",
             "illustration":"https://img.moegirl.org.cn/common/thumb/7/76/%E9%87%8D%E7%94%9F_Phigros.png/300px-%E9%87%8D%E7%94%9F_Phigros.png",
-            "illustrator":"\u6614\u7483&TNiK",
+            "illustrator":"昔璃&TNiK",
             "length":"2:23",
-            "song":"\u91cd\u751f"
+            "song":"重生"
         }
     ],
-    "\u98ce\u5c7f_\u95eb\u4e1c\u709c":[
+    "风屿_闫东炜":[
         {
             "bpm":"170",
-            "chapter":"\u5355\u66f2\u7cbe\u9009\u96c6",
+            "chapter":"单曲精选集",
             "chart":{
                 "EZ":[
                     {
-                        "charter":"Arenn Saki vs Catcats vs \u767e\u4e5d\u5341\u516b",
+                        "charter":"Arenn Saki vs Catcats vs 百九十八",
                         "combo":"368",
                         "difficulty":"5.9",
                         "level":"5"
@@ -5718,7 +5718,7 @@
                 ],
                 "HD":[
                     {
-                        "charter":"Arenn Saki vs Catcats vs \u767e\u4e5d\u5341\u516b",
+                        "charter":"Arenn Saki vs Catcats vs 百九十八",
                         "combo":"802",
                         "difficulty":"10.3",
                         "level":"10"
@@ -5726,18 +5726,18 @@
                 ],
                 "IN":[
                     {
-                        "charter":"Arenn Saki vs Catcats vs \u767e\u4e5d\u5341\u516b",
-                        "combo":"1155",
+                        "charter":"Arenn Saki vs Catcats vs 百九十八",
+                        "combo":"1156",
                         "difficulty":"13.7",
                         "level":"13"
                     }
                 ]
             },
-            "composer":"\u95eb\u4e1c\u709c",
+            "composer":"闫东炜",
             "illustration":"https://img.moegirl.org.cn/common/thumb/e/ef/%E9%A3%8E%E5%B1%BF_Phigros.png/300px-%E9%A3%8E%E5%B1%BF_Phigros.png",
             "illustrator":"cycats",
             "length":"2:59",
-            "song":"\u98ce\u5c7f"
+            "song":"风屿"
         }
     ]
 }
